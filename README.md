@@ -9,7 +9,7 @@ Yale stocks and flows database (YSTAFDB) describe the use of 102 materials from 
 This project is a compilation of scripts aiming at extracting information from YSTAFDB. Current scripts include:
 
 - [processes, flows and recycling](https://github.com/adrien-perello/Yale-stocks-and-flows-database/blob/main/scripts/processes_flows.ipynb)
-- criticality (WI)
+- criticality (WIP)
 
 ## Additional resources
 

@@ -1,0 +1,4 @@
+trade_data_source,notes,contributor_id,date_created,date_updated,trade_data_source_id
+NULL,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",1
+importer,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",2
+exporter,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",3

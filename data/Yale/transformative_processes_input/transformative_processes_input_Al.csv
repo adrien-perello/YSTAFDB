@@ -1,0 +1,483 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+2,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+2,PEM,production of engineering materials,1;1,production,1
+2,PEM,production of engineering materials,1;1,engineering materials,2
+2,PEM,production,1;1;1,primary production,1
+2,PEM,production,1;1;1,secondary production,2
+2,PEM,engineering materials,1;1;2,ingot casting,1
+2,PEM,primary production,1;1;1;1,bauxite mining,1
+2,PEM,primary production,1;1;1;1,alumina refining,2
+2,PEM,primary production,1;1;1;1,primary aluminum smelting,3
+2,PEM,aggregate production of engineering materials,1,production of engineering materials,1'
+2,PEM,production of engineering materials,1;1',aluminum product,1
+2,PEM,production of engineering materials,1;1',non-metal product,2
+2,PEM,production of engineering materials,1;1',waste,3
+2,PEM,engineering materials,1;1;2,ingot casting,1'
+2,PEM,ingot casting,1;1;2;1',ingot casting metal product,1
+2,PEM,ingot casting,1;1;2;1',ingot casting waste,2
+2,PEM,primary production,1;1;1;1,bauxite mining,1'
+2,PEM,primary production,1;1;1;1,alumina refining,2'
+2,PEM,primary production,1;1;1;1,primary aluminum smelting,3'
+2,PEM,bauxite mining,1;1;1;1;1',bauxite mining metal product,1
+2,PEM,bauxite mining,1;1;1;1;1',bauxite mining waste,2
+2,PEM,alumina refining,1;1;1;1;2',alumina refining metal product,1
+2,PEM,alumina refining,1;1;1;1;2',alumina refining waste,2
+2,PEM,primary aluminum smelting,1;1;1;1;3',primary aluminum smelting metal product,1
+2,PEM,primary aluminum smelting,1;1;1;1;3',primary aluminum smelting waste,2
+2,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+2,F&M,fabrication and manufacturing,2;1,fabrication,1
+2,F&M,fabrication and manufacturing,2;1,manufacturing,2
+2,F&M,fabrication,2;1;1,rolling,1
+2,F&M,fabrication,2;1;1,extrusion drawing,2
+2,F&M,fabrication,2;1;1,foundry casting,3
+2,F&M,fabrication,2;1;1,other,4
+2,F&M,manufacturing,2;1;2,transport,1
+2,F&M,manufacturing,2;1;2,construction,2
+2,F&M,manufacturing,2;1;2,industrial machinery,3
+2,F&M,manufacturing,2;1;2,consumer durables,4
+2,F&M,manufacturing,2;1;2,electrical,5
+2,F&M,manufacturing,2;1;2,containers packaging,6
+2,F&M,manufacturing,2;1;2,other,7
+2,F&M,rolling,2;1;1;1,sheet plate,1
+2,F&M,rolling,2;1;1;1,foil,2
+2,F&M,extrusion drawing,2;1;1;2,extruded,1
+2,F&M,extrusion drawing,2;1;1;2,electrical conductor,2
+2,F&M,extrusion drawing,2;1;1;2,wire,3
+2,F&M,foundry casting,2;1;1;3,sand castings,1
+2,F&M,foundry casting,2;1;1;3,mold castings,2
+2,F&M,foundry casting,2;1;1;3,die castings,3
+2,F&M,foundry casting,2;1;1;3,other castings,4
+2,F&M,other,2;1;1;4,forgings impacts,1
+2,F&M,other,2;1;1;4,powder paste,2
+2,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1'
+2,F&M,fabrication and manufacturing,2;1',product,1
+2,F&M,fabrication and manufacturing,2;1',scrap,2
+2,F&M,fabrication and manufacturing,2;1',waste,3
+2,F&M,fabrication and manufacturing,2;1,fabrication,1'
+2,F&M,fabrication and manufacturing,2;1,manufacturing,2'
+2,F&M,fabrication,2;1;1',fabrication product,1
+2,F&M,fabrication,2;1;1',fabrication scrap,2
+2,F&M,fabrication,2;1;1',fabrication waste,3
+2,F&M,manufacturing,2;1;2',manufacturing product,1
+2,F&M,manufacturing,2;1;2',manufacturing scrap,2
+2,F&M,manufacturing,2;1;2',manufacturing waste,3
+2,F&M,fabrication,2;1;1,rolling,1'
+2,F&M,fabrication,2;1;1,extrusion drawing,2'
+2,F&M,fabrication,2;1;1,foundry casting,3'
+2,F&M,fabrication,2;1;1,other,4'
+2,F&M,rolling,2;1;1;1',rolling product,1
+2,F&M,rolling,2;1;1;1',rolling scrap,2
+2,F&M,rolling,2;1;1;1',rolling waste,3
+2,F&M,extrusion drawing,2;1;1;2',extrusion drawing product,1
+2,F&M,extrusion drawing,2;1;1;2',extrusion drawing scrap,2
+2,F&M,extrusion drawing,2;1;1;2',extrusion drawing waste,3
+2,F&M,foundry casting,2;1;1;3',foundry casting product,1
+2,F&M,foundry casting,2;1;1;3',foundry casting scrap,2
+2,F&M,foundry casting,2;1;1;3',foundry casting waste,3
+2,F&M,other,2;1;1;4',other product,1
+2,F&M,other,2;1;1;4',other scrap,2
+2,F&M,other,2;1;1;4',other waste,3
+2,F&M,manufacturing,2;1;2,transport,1'
+2,F&M,manufacturing,2;1;2,construction,2'
+2,F&M,manufacturing,2;1;2,industrial machinery,3'
+2,F&M,manufacturing,2;1;2,consumer durables,4'
+2,F&M,manufacturing,2;1;2,electrical,5'
+2,F&M,manufacturing,2;1;2,containers packaging,6'
+2,F&M,manufacturing,2;1;2,other,7'
+2,F&M,transport,2;1;2;1',transport product,1
+2,F&M,transport,2;1;2;1',transport scrap,2
+2,F&M,construction,2;1;2;2',construction product,1
+2,F&M,construction,2;1;2;2',construction scrap,2
+2,F&M,industrial machinery,2;1;2;3',industrial machinery product,1
+2,F&M,industrial machinery,2;1;2;3',industrial machinery scrap,2
+2,F&M,consumer durables,2;1;2;4',consumer durables product,1
+2,F&M,consumer durables,2;1;2;4',consumer durables scrap,2
+2,F&M,electrical,2;1;2;5',electrical product,1
+2,F&M,electrical,2;1;2;5',electrical scrap,2
+2,F&M,containers packaging,2;1;2;6',containers packaging product,1
+2,F&M,containers packaging,2;1;2;6',containers packaging scrap,2
+2,F&M,other,2;1;2;7',other product,1
+2,F&M,other,2;1;2;7',other scrap,2
+2,F&M,rolling,2;1;1;1,sheet plate,1'
+2,F&M,rolling,2;1;1;1,foil,2'
+2,F&M,sheet plate,2;1;1;1;1',sheet plate product,1
+2,F&M,sheet plate,2;1;1;1;1',sheet plate scrap,2
+2,F&M,sheet plate,2;1;1;1;1',sheet plate waste,3
+2,F&M,foil,2;1;1;1;2',foil product,1
+2,F&M,foil,2;1;1;1;2',foil scrap,2
+2,F&M,foil,2;1;1;1;2',foil waste,3
+2,F&M,extrusion drawing,2;1;1;2,extruded,1'
+2,F&M,extrusion drawing,2;1;1;2,electrical conductor,2'
+2,F&M,extrusion drawing,2;1;1;2,wire,3'
+2,F&M,extruded,2;1;1;2;1',extruded product,1
+2,F&M,extruded,2;1;1;2;1',extruded scrap,2
+2,F&M,extruded,2;1;1;2;1',extruded waste,3
+2,F&M,electrical conductor,2;1;1;2;2',electrical conductor product,1
+2,F&M,electrical conductor,2;1;1;2;2',electrical conductor scrap,2
+2,F&M,electrical conductor,2;1;1;2;2',electrical conductor waste,3
+2,F&M,wire,2;1;1;2;3',wire product,1
+2,F&M,wire,2;1;1;2;3',wire scrap,2
+2,F&M,wire,2;1;1;2;3',wire waste,3
+2,F&M,foundry casting,2;1;1;3,sand castings,1'
+2,F&M,foundry casting,2;1;1;3,mold castings,2'
+2,F&M,foundry casting,2;1;1;3,die castings,3'
+2,F&M,foundry casting,2;1;1;3,other castings,4'
+2,F&M,sand castings,2;1;1;3;1',sand castings product,1
+2,F&M,sand castings,2;1;1;3;1',sand castings scrap,2
+2,F&M,sand castings,2;1;1;3;1',sand castings waste,3
+2,F&M,mold castings,2;1;1;3;2',mold castings product,1
+2,F&M,mold castings,2;1;1;3;2',mold castings scrap,2
+2,F&M,mold castings,2;1;1;3;2',mold castings waste,3
+2,F&M,die castings,2;1;1;3;3',die castings product,1
+2,F&M,die castings,2;1;1;3;3',die castings scrap,2
+2,F&M,die castings,2;1;1;3;3',die castings waste,3
+2,F&M,other castings,2;1;1;3;4',other castings product,1
+2,F&M,other castings,2;1;1;3;4',other castings scrap,2
+2,F&M,other castings,2;1;1;3;4',other castings waste,3
+2,F&M,other,2;1;1;4,forgings impacts,1'
+2,F&M,other,2;1;1;4,powder paste,2'
+2,F&M,forgings impacts,2;1;1;4;1',forgings impacts product,1
+2,F&M,forgings impacts,2;1;1;4;1',forgings impacts scrap,2
+2,F&M,forgings impacts,2;1;1;4;1',forgings impacts waste,3
+2,F&M,powder paste,2;1;1;4;2',powder paste product,1
+2,F&M,powder paste,2;1;1;4;2',powder paste scrap,2
+2,F&M,powder paste,2;1;1;4;2',powder paste waste,3
+2,USE,aggregate use,3,use,1
+2,USE,use,3;1,transport,1
+2,USE,use,3;1,construction,2
+2,USE,use,3;1,industrial machinery,3
+2,USE,use,3;1,consumer durables,4
+2,USE,use,3;1,electrical,5
+2,USE,use,3;1,containers packaging,6
+2,USE,use,3;1,other,7
+2,USE,transport,3;1;1,automotives,1
+2,USE,transport,3;1;1,bicycles,2
+2,USE,transport,3;1;1,aerospace,3
+2,USE,transport,3;1;1,marine,4
+2,USE,transport,3;1;1,rail,5
+2,USE,transport,3;1;1,cargo,6
+2,USE,construction,3;1;2,residential,1
+2,USE,construction,3;1;2,nonresidential,2
+2,USE,construction,3;1;2,signs,3
+2,USE,construction,3;1;2,street lights,4
+2,USE,industrial machinery,3;1;3,manufacturing machinery,1
+2,USE,industrial machinery,3;1;3,construction machinery,2
+2,USE,industrial machinery,3;1;3,agricultural machinery,3
+2,USE,consumer durables,3;1;4,household durables,1
+2,USE,consumer durables,3;1;4,commercial durables,2
+2,USE,electrical,3;1;5,transmission distribution,1
+2,USE,electrical,3;1;5,transformation,2
+2,USE,electrical,3;1;5,generation equipment,3
+2,USE,containers packaging,3;1;6,cans,1
+2,USE,containers packaging,3;1;6,other packaging,2
+2,USE,automotives,3;1;1;1,passenger vehicles,1
+2,USE,automotives,3;1;1;1,freight vehicles,2
+2,USE,automotives,3;1;1;1,specialty vehicles,3
+2,USE,automotives,3;1;1;1,trailers,4
+2,USE,automotives,3;1;1;1,agricultural vehicles,5
+2,USE,automotives,3;1;1;1,motorcycles,6
+2,USE,automotives,3;1;1;1,military vehicles,7
+2,USE,automotives,3;1;1;1,police vehicles,8
+2,USE,automotives,3;1;1;1,other,9
+2,USE,aerospace,3;1;1;3,civil_aircraft,1
+2,USE,aerospace,3;1;1;3,military_aircraft,2
+2,USE,marine,3;1;1;4,transport vessels,1
+2,USE,marine,3;1;1;4,barges,2
+2,USE,marine,3;1;1;4,fishing vessels,3
+2,USE,marine,3;1;1;4,military vessels,4
+2,USE,rail,3;1;1;5,locomotives,1
+2,USE,rail,3;1;1;5,passenger rail cars,2
+2,USE,rail,3;1;1;5,specialty freight cars,3
+2,USE,rail,3;1;1;5,subway vehicles,4
+2,USE,residential,3;1;2;1,rural,1
+2,USE,residential,3;1;2;1,urban,2
+2,USE,nonresidential,3;1;2;2,rural,1
+2,USE,nonresidential,3;1;2;2,urban,2
+2,USE,signs,3;1;2;3,road signs,1
+2,USE,signs,3;1;2;3,street signs,2
+2,USE,manufacturing machinery,3;1;3;1,ordinary machinery,1
+2,USE,manufacturing machinery,3;1;3;1,mining,2
+2,USE,manufacturing machinery,3;1;3;1,oil gas extraction,3
+2,USE,manufacturing machinery,3;1;3;1,timber processing,4
+2,USE,manufacturing machinery,3;1;3;1,food processing,5
+2,USE,manufacturing machinery,3;1;3;1,beverage processing,6
+2,USE,manufacturing machinery,3;1;3;1,tobacco cigarettes,7
+2,USE,manufacturing machinery,3;1;3;1,textiles,8
+2,USE,manufacturing machinery,3;1;3;1,furniture,9
+2,USE,manufacturing machinery,3;1;3;1,paper,10
+2,USE,manufacturing machinery,3;1;3;1,petroleum processing,11
+2,USE,manufacturing machinery,3;1;3;1,chemical petrochemical,12
+2,USE,manufacturing machinery,3;1;3;1,daily chemicals,13
+2,USE,manufacturing machinery,3;1;3;1,pharmeceuticals,14
+2,USE,manufacturing machinery,3;1;3;1,rubber plastic,15
+2,USE,manufacturing machinery,3;1;3;1,construction materials,16
+2,USE,manufacturing machinery,3;1;3;1,metal processing,17
+2,USE,manufacturing machinery,3;1;3;1,other light industry,18
+2,USE,manufacturing machinery,3;1;3;1,transportation manufacturing,19
+2,USE,manufacturing machinery,3;1;3;1,electrical product manufacturing,20
+2,USE,manufacturing machinery,3;1;3;1,appliances,21
+2,USE,manufacturing machinery,3;1;3;1,electronics information technology,22
+2,USE,manufacturing machinery,3;1;3;1,lighting optical,23
+2,USE,manufacturing machinery,3;1;3;1,office,24
+2,USE,agricultural machinery,3;1;3;3,irrigation,1
+2,USE,agricultural machinery,3;1;3;3,crop care,2
+2,USE,agricultural machinery,3;1;3;3,harvesting,3
+2,USE,agricultural machinery,3;1;3;3,threshing drying,4
+2,USE,agricultural machinery,3;1;3;3,seed processing,5
+2,USE,agricultural machinery,3;1;3;3,agricultural produce processing,6
+2,USE,agricultural machinery,3;1;3;3,animal husbandry,7
+2,USE,agricultural machinery,3;1;3;3,greenhouses,8
+2,USE,household durables,3;1;4;1,white goods,1
+2,USE,household durables,3;1;4;1,electrical non white goods,2
+2,USE,household durables,3;1;4;1,other,3
+2,USE,commercial durables,3;1;4;2,computers,1
+2,USE,commercial durables,3;1;4;2,printers,2
+2,USE,commercial durables,3;1;4;2,copiers,3
+2,USE,commercial durables,3;1;4;2,fax machines,4
+2,USE,commercial durables,3;1;4;2,telephones,5
+2,USE,transformation,3;1;5;2,transformers,1
+2,USE,transformation,3;1;5;2,bus bars and related,2
+2,USE,white goods,3;1;4;1;1,refrigerators_freezers,1
+2,USE,white goods,3;1;4;1;1,washing_machines,2
+2,USE,white goods,3;1;4;1;1,microwaves,3
+2,USE,white goods,3;1;4;1;1,portable air conditioners,4
+2,USE,white goods,3;1;4;1;1,dishwashers,5
+2,USE,white goods,3;1;4;1;1,electric pots cookers,6
+2,USE,electrical non white goods,3;1;4;1;2,computers,1
+2,USE,electrical non white goods,3;1;4;1;2,televisions,2
+2,USE,electrical non white goods,3;1;4;1;2,electric fans,3
+2,USE,electrical non white goods,3;1;4;1;2,dvd vcd players,4
+2,USE,electrical non white goods,3;1;4;1;2,cameras camcorders,5
+2,USE,electrical non white goods,3;1;4;1;2,telephones,6
+2,USE,electrical non white goods,3;1;4;1;2,mobile phones,7
+2,USE,electrical non white goods,3;1;4;1;2,stereos radios,8
+2,USE,electrical non white goods,3;1;4;1;2,vacuum cleaners,9
+2,USE,electrical non white goods,3;1;4;1;2,air filters,10
+2,USE,electrical non white goods,3;1;4;1;2,electric heaters,11
+2,USE,electrical non white goods,3;1;4;1;2,sterilizers,12
+2,USE,electrical non white goods,3;1;4;1;2,fax machines,13
+2,USE,other,3;1;4;1;3,pots pans,1
+2,USE,other,3;1;4;1;3,sewing machines,2
+2,USE,aggregate use,3,use,1'
+2,USE,use,3;1',non-dissipative,1
+2,USE,use,3;1',dissipative,2
+2,USE,aggregate use,3,use,1''
+2,USE,use,3;1'',transport,1
+2,USE,use,3;1'',buildings,2
+2,USE,use,3;1'',electrical,3
+2,USE,use,3;1,transport,1'
+2,USE,use,3;1,construction,2'
+2,USE,use,3;1,industrial machinery,3'
+2,USE,use,3;1,consumer durables,4'
+2,USE,use,3;1,electrical,5'
+2,USE,use,3;1,containers packaging,6'
+2,USE,use,3;1,other,7'
+2,USE,transport,3;1;1',transport non-dissipative,1
+2,USE,transport,3;1;1',transport dissipative,2
+2,USE,construction,3;1;2',construction non-dissipative,1
+2,USE,construction,3;1;2',construction dissipative,2
+2,USE,industrial machinery,3;1;3',industrial machinery non-dissipative,1
+2,USE,industrial machinery,3;1;3',industrial machinery dissipative,2
+2,USE,consumer durables,3;1;4',consumer durables non-dissipative,1
+2,USE,consumer durables,3;1;4',consumer durables dissipative,2
+2,USE,electrical,3;1;5',electrical non-dissipative,1
+2,USE,electrical,3;1;5',electrical dissipative,2
+2,USE,containers packaging,3;1;6',containers packaging non-dissipative,1
+2,USE,containers packaging,3;1;6',containers packaging dissipative,2
+2,USE,transport,3;1;1,automotives,1'
+2,USE,transport,3;1;1,bicycles,2'
+2,USE,transport,3;1;1,aerospace,3'
+2,USE,transport,3;1;1,marine,4'
+2,USE,transport,3;1;1,rail,5'
+2,USE,transport,3;1;1,cargo,6'
+2,USE,automotives,3;1;1;1',automotives non-dissipative,1
+2,USE,automotives,3;1;1;1',automotives dissipative,2
+2,USE,bicycles,3;1;1;2',bicycles non-dissipative,1
+2,USE,bicycles,3;1;1;2',bicycles dissipative,2
+2,USE,aerospace,3;1;1;3',aerospace non-dissipative,1
+2,USE,aerospace,3;1;1;3',aerospace dissipative,2
+2,USE,marine,3;1;1;4',marine non-dissipative,1
+2,USE,marine,3;1;1;4',marine dissipative,2
+2,USE,rail,3;1;1;5',rail non-dissipative,1
+2,USE,rail,3;1;1;5',rail dissipative,2
+2,USE,cargo,3;1;1;6',cargo non-dissipative,1
+2,USE,cargo,3;1;1;6',cargo dissipative,2
+2,USE,construction,3;1;2,residential,1'
+2,USE,construction,3;1;2,nonresidential,2'
+2,USE,construction,3;1;2,signs,3'
+2,USE,construction,3;1;2,street lights,4'
+2,USE,residential,3;1;2;1',residential non-dissipative,1
+2,USE,residential,3;1;2;1',residential dissipative,2
+2,USE,nonresidential,3;1;2;2',nonresidential non-dissipative,1
+2,USE,nonresidential,3;1;2;2',nonresidential dissipative,2
+2,USE,signs,3;1;2;3',signs non-dissipative,1
+2,USE,signs,3;1;2;3',signs dissipative,2
+2,USE,street lights,3;1;2;4',street lights non-dissipative,1
+2,USE,street lights,3;1;2;4',street lights dissipative,2
+2,USE,industrial machinery,3;1;3,manufacturing machinery,1'
+2,USE,industrial machinery,3;1;3,construction machinery,2'
+2,USE,industrial machinery,3;1;3,agricultural machinery,3'
+2,USE,manufacturing machinery,3;1;3;1',manufacturing machinery non-dissipative,1
+2,USE,manufacturing machinery,3;1;3;1',manufacturing machinery dissipative,2
+2,USE,construction machinery,3;1;3;2',construction machinery non-dissipative,1
+2,USE,construction machinery,3;1;3;2',construction machinery dissipative,2
+2,USE,agricultural machinery,3;1;3;3',agricultural machinery non-dissipative,1
+2,USE,agricultural machinery,3;1;3;3',agricultural machinery dissipative,2
+2,USE,consumer durables,3;1;4,household durables,1'
+2,USE,consumer durables,3;1;4,commercial durables,2'
+2,USE,household durables,3;1;4;1',household durables non-dissipative,1
+2,USE,household durables,3;1;4;1',household durables dissipative,2
+2,USE,commercial durables,3;1;4;2',commercial durables non-dissipative,1
+2,USE,commercial durables,3;1;4;2',commercial durables dissipative,2
+2,USE,household durables,3;1;4;1,white goods,1'
+2,USE,household durables,3;1;4;1,electrical non white goods,2'
+2,USE,household durables,3;1;4;1,other,3'
+2,USE,white goods,3;1;4;1;1',white goods non-dissipative,1
+2,USE,white goods,3;1;4;1;1',white goods dissipative,2
+2,USE,electrical non white goods,3;1;4;1;2',electrical non white goods non-dissipative,1
+2,USE,electrical non white goods,3;1;4;1;2',electrical non white goods dissipative,2
+2,USE,other,3;1;4;1;3',other non-dissipative,1
+2,USE,other,3;1;4;1;3',other dissipative,2
+2,USE,electrical,3;1;5,transmission distribution,1'
+2,USE,electrical,3;1;5,transformation,2'
+2,USE,electrical,3;1;5,generation equipment,3'
+2,USE,transmission distribution,3;1;5;1',transmission distribution non-dissipative,1
+2,USE,transmission distribution,3;1;5;1',transmission distribution dissipative,2
+2,USE,transformation,3;1;5;2',transformation non-dissipative,1
+2,USE,transformation,3;1;5;2',transformation dissipative,2
+2,USE,generation equipment,3;1;5;3',generation equipment non-dissipative,1
+2,USE,generation equipment,3;1;5;3',generation equipment dissipative,2
+2,USE,containers packaging,3;1;6,cans,1'
+2,USE,containers packaging,3;1;6,other packaging,2'
+2,USE,cans,3;1;6;1',cans non-dissipative,1
+2,USE,cans,3;1;6;1',cans dissipative,2
+2,USE,other packaging,3;1;6;2',other packaging non-dissipative,1
+2,USE,other packaging,3;1;6;2',other packaging dissipative,2
+2,WMR,aggregate waste management,4,waste management,1
+2,WMR,waste management,4;1,collection,1
+2,WMR,waste management,4;1,separation treatment,2
+2,WMR,waste management,4;1,melting,3
+2,WMR,collection,4;1;1,new scrap,1
+2,WMR,collection,4;1;1,old scrap,2
+2,WMR,separation treatment,4;1;2,new scrap,1
+2,WMR,separation treatment,4;1;2,old scrap,2
+2,WMR,melting,4;1;3,new scrap,1
+2,WMR,melting,4;1;3,old scrap,2
+2,WMR,aggregate waste management,4,waste management,1'
+2,WMR,waste management,4;1',recycled,1
+2,WMR,waste management,4;1',not recycled,2
+2,WMR,waste management,4;1,collection,1'
+2,WMR,waste management,4;1,separation treatment,2'
+2,WMR,waste management,4;1,melting,3'
+2,WMR,collection,4;1;1',transport,1
+2,WMR,collection,4;1;1',construction,2
+2,WMR,collection,4;1;1',industrial machinery,3
+2,WMR,collection,4;1;1',consumer durables,4
+2,WMR,collection,4;1;1',electrical,5
+2,WMR,collection,4;1;1',containers packaging,6
+2,WMR,collection,4;1;1',other,7
+2,WMR,separation treatment,4;1;2',secondary smelters,1
+2,WMR,separation treatment,4;1;2',integrated producers,2
+2,WMR,separation treatment,4;1;2',others,3
+2,WMR,melting,4;1;3',secondary smelters,1
+2,WMR,melting,4;1;3',integrated producers,2
+2,WMR,melting,4;1;3',others,3
+2,WMR,waste management,4;1,collection,1''
+2,WMR,waste management,4;1,separation treatment,2''
+2,WMR,waste management,4;1,melting,3''
+2,WMR,separation treatment,4;1;2'',separation treatment product,1
+2,WMR,separation treatment,4;1;2'',separation treatment waste,2
+2,WMR,melting,4;1;3'',melting product,1
+2,WMR,melting,4;1;3'',melting waste,2
+2,WMR,collection,4;1;1,new scrap,1'
+2,WMR,collection,4;1;1,old scrap,2'
+2,WMR,new scrap,4;1;1;1',new scrap product,1
+2,WMR,new scrap,4;1;1;1',new scrap waste,2
+2,WMR,old scrap,4;1;1;2',old scrap product,1
+2,WMR,old scrap,4;1;1;2',old scrap waste,2
+2,WMR,collection,4;1;1',transport,1'
+2,WMR,collection,4;1;1',construction,2'
+2,WMR,collection,4;1;1',industrial machinery,3'
+2,WMR,collection,4;1;1',consumer durables,4'
+2,WMR,collection,4;1;1',electrical,5'
+2,WMR,collection,4;1;1',containers packaging,6'
+2,WMR,collection,4;1;1',other,7'
+2,WMR,transport,4;1;1';1',collected,1
+2,WMR,transport,4;1;1';1',waste,2
+2,WMR,construction,4;1;1';2',collected,1
+2,WMR,construction,4;1;1';2',waste,2
+2,WMR,industrial machinery,4;1;1';3',collected,1
+2,WMR,industrial machinery,4;1;1';3',waste,2
+2,WMR,consumer durables,4;1;1';4',collected,1
+2,WMR,consumer durables,4;1;1';4',waste,2
+2,WMR,electrical,4;1;1';5',collected,1
+2,WMR,electrical,4;1;1';5',waste,2
+2,WMR,containers packaging,4;1;1';6',collected,1
+2,WMR,containers packaging,4;1;1';6',waste,2
+2,WMR,other,4;1;1';7',collected,1
+2,WMR,other,4;1;1';7',waste,2
+2,WMR,separation treatment,4;1;2,new scrap,1'
+2,WMR,separation treatment,4;1;2,old scrap,2'
+2,WMR,new scrap,4;1;2;1',new scrap product,1
+2,WMR,new scrap,4;1;2;1',new scrap waste,2
+2,WMR,old scrap,4;1;2;2',old scrap product,1
+2,WMR,old scrap,4;1;2;2',old scrap waste,2
+2,WMR,separation treatment,4;1;2',secondary smelters,1'
+2,WMR,separation treatment,4;1;2',integrated producers,2'
+2,WMR,separation treatment,4;1;2',others,3'
+2,WMR,secondary smelters,4;1;2';1',secondary smelters product,1
+2,WMR,secondary smelters,4;1;2';1',secondary smelters waste,2
+2,WMR,integrated producers,4;1;2';2',integrated producers product,1
+2,WMR,integrated producers,4;1;2';2',integrated producers waste,2
+2,WMR,others,4;1;2';3',others product,1
+2,WMR,others,4;1;2';3',others waste,2
+2,WMR,melting,4;1;3,new scrap,1'
+2,WMR,melting,4;1;3,old scrap,2'
+2,WMR,new scrap,4;1;3;1',new scrap product,1
+2,WMR,new scrap,4;1;3;1',new scrap waste,2
+2,WMR,old scrap,4;1;3;2',old scrap product,1
+2,WMR,old scrap,4;1;3;2',old scrap waste,2
+2,WMR,melting,4;1;3',secondary smelters,1'
+2,WMR,melting,4;1;3',integrated producers,2'
+2,WMR,melting,4;1;3',others,3'
+2,WMR,secondary smelters,4;1;3';1',secondary smelters product,1
+2,WMR,secondary smelters,4;1;3';1',secondary smelters waste,2
+2,WMR,integrated producers,4;1;3';2',integrated producers product,1
+2,WMR,integrated producers,4;1;3';2',integrated producers waste,2
+2,WMR,others,4;1;3';3',others product,1
+2,WMR,others,4;1;3';3',others waste,2
+2,ENV,aggregate environment,5,environment,1
+2,ENV,environment,5;1,tailings,1
+2,ENV,environment,5;1,slag,2
+2,ENV,environment,5;1,sludge slimes,3
+2,ENV,environment,5;1,leachate,4
+2,ENV,environment,5;1,landfill,5
+2,ENV,environment,5;1,lithosphere economic resources,6
+2,ENV,environment,5;1,ashes particulates,7
+2,ENV,environment,5;1,hazardous waste,8
+2,ENV,environment,5;1,dissipation,9
+2,ENV,environment,5;1,earth orbit,10
+2,ENV,environment,5;1,moon,11
+2,ENV,environment,5;1,atmosphere,12
+2,ENV,environment,5;1,fossil fuel resources,13
+2,ENV,environment,5;1,agricultural biomass,14
+2,ENV,environment,5;1,terrestrial biomass,15
+2,ENV,environment,5;1,soil,16
+2,ENV,environment,5;1,continental regolith,17
+2,ENV,environment,5;1,freshwater,18
+2,ENV,environment,5;1,oceans,19
+2,ENV,environment,5;1,ocean biomass,20
+2,ENV,environment,5;1,mantle,21
+2,ENV,environment,5;1,core,22
+2,ENV,environment,5;1,oceanic regolith,23
+2,ENV,environment,5;1,consolidated crust,24
+2,ENV,environment,5;1,universe non earth planetary bodies,25
+2,ENV,dissipation,5;1;9,land,1
+2,ENV,dissipation,5;1;9,water bodies,2
+2,ENV,dissipation,5;1;9,air,3
+2,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+2,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+2,ENV,consolidated crust,5;1;24,upper continental crust,1
+2,ENV,consolidated crust,5;1;24,middle continental crust,2
+2,ENV,consolidated crust,5;1;24,lower continental crust,3
+2,ENV,consolidated crust,5;1;24,oceanic crust,4

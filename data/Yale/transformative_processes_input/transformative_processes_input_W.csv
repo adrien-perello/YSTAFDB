@@ -1,0 +1,75 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+55,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+55,PEM,production of engineering materials,1;1,production,1
+55,PEM,production of engineering materials,1;1,engineering materials,2
+55,PEM,production,1;1;1,mining beneficiation,1
+55,PEM,production,1;1;1,refining,2
+55,PEM,mining beneficiation,1;1;1;1,ore and concentrate,1
+55,PEM,mining beneficiation,1;1;1;1,tailings,2
+55,PEM,engineering materials,1;1;2,products,1
+55,PEM,engineering materials,1;1;2,waste,2
+55,PEM,products,1;1;2;1,APT,1
+55,PEM,products,1;1;2;1,tungsten carbide powder,2
+55,PEM,products,1;1;2;1,other engineering materials,3
+55,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+55,F&M,fabrication and manufacturing,2;1,semis and finished products,1
+55,F&M,fabrication and manufacturing,2;1,scrap,2
+55,F&M,fabrication and manufacturing,2;1,waste,3
+55,F&M,semis and finished products,2;1;1,semis,1
+55,F&M,semis and finished products,2;1;1,finished products,2
+55,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1'
+55,F&M,fabrication and manufacturing,2;1',fabrication,1
+55,F&M,fabrication and manufacturing,2;1',manufacturing,2
+55,F&M,fabrication,2;1';1,finished products,1
+55,F&M,fabrication,2;1';1,scrap,2
+55,F&M,fabrication,2;1';1,waste,3
+55,F&M,manufacturing,2;1';2,finished products,1
+55,F&M,manufacturing,2;1';2,scrap,2
+55,F&M,manufacturing,2;1';2,waste,3
+55,USE,aggregate use,3,use,1
+55,USE,use,3;1,non-dissipative,1
+55,USE,use,3;1,dissipative,2
+55,USE,aggregate use,3,use,1'
+55,USE,use,3;1',cutting tools,1
+55,USE,use,3;1',alloys,2
+55,USE,use,3;1',superalloys,3
+55,WMR,aggregate waste management,4,waste management,1
+55,WMR,waste management,4;1,recycled,1
+55,WMR,waste management,4;1,not recycled,2
+55,WMR,recycled,4;1;1,scrap,1
+55,WMR,recycled,4;1;1,other,2
+55,ENV,aggregate environment,5,environment,1
+55,ENV,environment,5;1,tailings,1
+55,ENV,environment,5;1,slag,2
+55,ENV,environment,5;1,sludge slimes,3
+55,ENV,environment,5;1,leachate,4
+55,ENV,environment,5;1,landfill,5
+55,ENV,environment,5;1,lithosphere economic resources,6
+55,ENV,environment,5;1,ashes particulates,7
+55,ENV,environment,5;1,hazardous waste,8
+55,ENV,environment,5;1,dissipation,9
+55,ENV,environment,5;1,earth orbit,10
+55,ENV,environment,5;1,moon,11
+55,ENV,environment,5;1,atmosphere,12
+55,ENV,environment,5;1,fossil fuel resources,13
+55,ENV,environment,5;1,agricultural biomass,14
+55,ENV,environment,5;1,terrestrial biomass,15
+55,ENV,environment,5;1,soil,16
+55,ENV,environment,5;1,continental regolith,17
+55,ENV,environment,5;1,freshwater,18
+55,ENV,environment,5;1,oceans,19
+55,ENV,environment,5;1,ocean biomass,20
+55,ENV,environment,5;1,mantle,21
+55,ENV,environment,5;1,core,22
+55,ENV,environment,5;1,oceanic regolith,23
+55,ENV,environment,5;1,consolidated crust,24
+55,ENV,environment,5;1,universe non earth planetary bodies,25
+55,ENV,dissipation,5;1;9,landfill,1
+55,ENV,dissipation,5;1;9,water bodies,2
+55,ENV,dissipation,5;1;9,air,3
+55,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+55,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+55,ENV,consolidated crust,5;1;24,upper continental crust,1
+55,ENV,consolidated crust,5;1;24,middle continental crust,2
+55,ENV,consolidated crust,5;1;24,lower continental crust,3
+55,ENV,consolidated crust,5;1;24,oceanic crust,4

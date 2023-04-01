@@ -1,0 +1,63 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+99,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+99,PEM,production of engineering materials,1;1,production,1
+99,PEM,production of engineering materials,1;1,engineering materials,2
+99,PEM,production,1;1;1,primary metals,1
+99,PEM,engineering materials,1;1;2,product,1
+99,PEM,engineering materials,1;1;2,slag,2
+99,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+99,F&M,fabrication and manufacturing,2;1,fabrication,1
+99,F&M,fabrication and manufacturing,2;1,manufacturing,2
+99,F&M,fabrication,2;1;1,product,1
+99,F&M,fabrication,2;1;1,scrap,2
+99,F&M,fabrication,2;1;1,waste,3
+99,F&M,manufacturing,2;1;2,product,1
+99,F&M,manufacturing,2;1;2,scrap,2
+99,F&M,manufacturing,2;1;2,waste,3
+99,F&M,fabrication and manufacturing,2;1,fabrication,1'
+99,F&M,fabrication,2;1;1',hot rolling,1
+99,F&M,fabrication,2;1;1',cold rolling,2
+99,USE,aggregate use,3,use,1
+99,USE,use,3;1,non-dissipative,1
+99,USE,use,3;1,dissipative,2
+99,WMR,aggregate waste management,4,waste management,1
+99,WMR,waste management,4;1,recycled,1
+99,WMR,waste management,4;1,not recycled,2
+99,WMR,recycled,4;1;1,scrap,1
+99,WMR,not recycled,4;1;2,waste,1
+99,WMR,not recycled,4;1;2,downcycled carbon steel scrap,2
+99,ENV,aggregate environment,5,environment,1
+99,ENV,environment,5;1,tailings,1
+99,ENV,environment,5;1,slag,2
+99,ENV,environment,5;1,sludge slimes,3
+99,ENV,environment,5;1,leachate,4
+99,ENV,environment,5;1,landfill,5
+99,ENV,environment,5;1,lithosphere economic resources,6
+99,ENV,environment,5;1,ashes particulates,7
+99,ENV,environment,5;1,hazardous waste,8
+99,ENV,environment,5;1,dissipation,9
+99,ENV,environment,5;1,earth orbit,10
+99,ENV,environment,5;1,moon,11
+99,ENV,environment,5;1,atmosphere,12
+99,ENV,environment,5;1,fossil fuel resources,13
+99,ENV,environment,5;1,agricultural biomass,14
+99,ENV,environment,5;1,terrestrial biomass,15
+99,ENV,environment,5;1,soil,16
+99,ENV,environment,5;1,continental regolith,17
+99,ENV,environment,5;1,freshwater,18
+99,ENV,environment,5;1,oceans,19
+99,ENV,environment,5;1,ocean biomass,20
+99,ENV,environment,5;1,mantle,21
+99,ENV,environment,5;1,core,22
+99,ENV,environment,5;1,oceanic regolith,23
+99,ENV,environment,5;1,consolidated crust,24
+99,ENV,environment,5;1,universe non earth planetary bodies,25
+99,ENV,dissipation,5;1;9,land,1
+99,ENV,dissipation,5;1;9,water bodies,2
+99,ENV,dissipation,5;1;9,air,3
+99,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+99,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+99,ENV,consolidated crust,5;1;24,upper continental crust,1
+99,ENV,consolidated crust,5;1;24,middle continental crust,2
+99,ENV,consolidated crust,5;1;24,lower continental crust,3
+99,ENV,consolidated crust,5;1;24,oceanic crust,4

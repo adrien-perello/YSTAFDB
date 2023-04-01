@@ -1,0 +1,105 @@
+reference_material,reference_material_name,atomic_weight,notes,contributor_id,date_created,date_updated,reference_material_id
+Ag,Silver,107.87,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",1
+Al,Aluminum,26.98,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",2
+As,Arsenic,74.92,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",3
+Au,Gold,196.97,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",4
+B,Boron,10.81,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",5
+Ba,Barium,137.33,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",6
+Be,Beryllium,9.012,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",7
+Bi,Bismuth,208.98,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",8
+Cd,Cadmium,112.41,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",9
+Ce,Cerium,140.12,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",10
+Co,Cobalt,58.93,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",11
+Cr,Chromium,51.996,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",12
+Cu,Copper,63.55,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",13
+Dy,Dysprosium,162.5,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",14
+Er,Erbium,167.26,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",15
+Eu,Europium,151.96,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",16
+Fe,Iron,55.85,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",17
+Ga,Gallium,69.72,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",18
+Gd,Gadolinium,157.25,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",19
+Ge,Germanium,72.63,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",20
+Hf,Hafnium,178.49,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",21
+Hg,Mercury,200.59,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",22
+Ho,Holmium,164.93,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",23
+In,Indium,114.818,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",24
+Ir,Iridium,192.217,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",25
+La,Lanthanum,138.9,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",26
+Li,Lithium,6.94,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",27
+Lu,Lutetium,174.97,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",28
+Mg,Magnesium,24.305,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",29
+Mn,Manganese,54.938,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",30
+Mo,Molybdenum,95.95,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",31
+Nb,Niobium,92.906,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",32
+Ni,Nickel,58.69,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",33
+Os,Osmium,190.23,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",34
+Pb,Lead,207.2,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",35
+Pd,Palladium,106.42,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",36
+Pr,Praseodymium,140.9,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",37
+Pt,Platinum,195.084,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",38
+Re,Rhenium,186.207,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",39
+Rh,Rhodium,102.9,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",40
+Ru,Ruthenium,101.07,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",41
+Sb,Antimony,121.76,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",42
+Sc,Scandium,44.955,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",43
+Se,Selenium,78.971,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",44
+Sm,Samarium,150.36,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",45
+Sn,Tin,118.71,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",46
+Sr,Strontium,87.62,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",47
+Ta,Tantalum,180.94,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",48
+Tb,Terbium,158.92,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",49
+Te,Tellurium,127.6,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",50
+Ti,Titanium,47.867,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",51
+Tl,Thallium,204.38,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",52
+Tm,Thulium,168.93,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",53
+V,Vanadium,50.94,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",54
+W,Tungsten,183.84,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",55
+Y,Yttrium,88.906,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",56
+Yb,Ytterbium,173.05,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",57
+Zn,Zinc,65.38,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",58
+Zr,Zirconium,91.224,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",59
+Nd,Neodymium,144.24,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",60
+Cs,Caesium,132.9,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",61
+Th,Thorium,232.04,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",62
+U,Uranium,238.02,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",63
+non-metal,NULL,NULL,"all non-metals",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",64
+C,Carbon,12.011,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",65
+"all substances",NULL,NULL,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",66
+"Natural gas",NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",67
+"Crude oil",NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",68
+Si,Silicon,28.085,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",69
+PVC,"Polyvinyl chloride",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",70
+"AgInCd alloy","80% Silver mining production, 15% 80% Zinc mining production, 15% Tin mining production, 5% Copper mining production      , 5% Zinc mining production      ",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",71
+"Iron oxide",NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",72
+SO2,"Sulfur dioxide",64.058,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",73
+Alumina,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",74
+Coal,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",75
+Cement,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",76
+Chromite,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",77
+Epoxy,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",78
+PET,"Polyethylene terephthalate",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",79
+FRP,"Fibre reinforced plastic",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",80
+Wood,"Wood mining production",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",81
+CaO,Lime,56.077,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",82
+Ca,Calcium,40.078,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",83
+Fluorspar,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",84
+Chromite,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",85
+MgAl2O4,Spinel,142.264,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",86
+Cl,Chlorine,35.45,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",87
+Na,Sodium,22.99,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",88
+NaCl,Salt,58.44,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",89
+Nitrogen,NULL,14.007,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",90
+Talc,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",91
+Galinstan,"Galinstan alloy (Ga, In, Sn)",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",92
+"GaIn Alloy","GaIn alloy (Ga, In)",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",93
+"Ceramic composite","75% Silicon mining production, 17% Natural gas production, 8% Crude oil production      ",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",94
+Membrane,"33% Natural gas production, 33% Crude oil production, 33% Fluorspar mining production      ",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",95
+Epoxy,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",96
+"Lithium Battery Mix","53% Nickel mining production, 47% Zinc mining production        ",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",97
+Steel,NULL,NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",98
+"Stainless steel","General stainless steel alloy",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",99
+"AISI 444","Stainless steel alloy (e.g., 18% Cr, 2% Mo, 80% Fe)",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",100
+"AISI 430","Stainless steel alloy (e.g., 17% Cr, 83% Fe)",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",101
+"AISI 410","Stainless steel alloy (e.g., 12% Cr, 87% Fe, 1% Mn)",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",102
+"HSS T1","Tool steel (e.g., 4% Cr, 18% W, 78% Fe)",NULL,"from criticality calculator, exact definition of substance is unclear",1,"2019-02-04 14:46:58","2019-02-04 14:46:58",103
+P,Phosphorus,30.974,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",104

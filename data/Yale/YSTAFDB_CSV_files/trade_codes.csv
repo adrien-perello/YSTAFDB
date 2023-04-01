@@ -1,0 +1,74 @@
+trade_code,trade_code_type,trade_code_version,commodity,description,publication_id,notes,contributor_id,date_created,date_updated,trade_code_id
+281700,hs,NULL,NULL,"Zinc oxide; zinc peroxide",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",1
+282736,hs,NULL,NULL,"Zinc chlorides",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",2
+283020,hs,NULL,NULL,"Zinc sulphide",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",3
+283326,hs,NULL,NULL,"Sulphates of zinc",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",4
+284120,hs,NULL,NULL,"Chromates of zinc or of lead",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",5
+320642,hs,NULL,NULL,"Pigments etc. based on zinc sulphide; lithophone",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",6
+721030,hs,NULL,NULL,"Flat-rolled products of iron-non-alloy steel; of a width of 600mm-more; electrolytically plated-coated with zinc",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",7
+721031,hs,NULL,NULL,"Flat rolled iron or non-alloy steel;electro plate-zinc;<3mm-275;>3-355",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",8
+721039,hs,NULL,NULL,"Flat rolled iron or non-alloy steel; electro plate -zinc;w >600mm; nes",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",9
+721041,hs,NULL,NULL,"Flat rolled i-nas; coat-zinc; corrugated; w >600m; nes",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",10
+721049,hs,NULL,NULL,"Flat-rolled products of iron-non-alloy steel; of a width of 600mm-more; othw. plated-coated with zinc (excl. electrolytically); other than corrugated",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",11
+721220,hs,NULL,NULL,"Flat-rolled products of iron-non-alloy steel; of a width of <600mm; electrolytically plated-coated with zinc",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",12
+721221,hs,NULL,NULL,"Flat rolled steel; <600mm; zinc plate;<3mm-275-3mm-35",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",13
+721229,hs,NULL,NULL,"Flat rolled steel; <600mm; electro-plated zinc; nes",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",14
+721230,hs,NULL,NULL,"Flat-rolled products of iron-non-alloy steel; of a width of <600mm; othw. plated-coated with zinc (excl. electrolytically)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",15
+721712,hs,NULL,NULL,"Wire; iron or non-alloy steel; plated or coated with zinc <0.25%C",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",16
+721720,hs,NULL,NULL,"Wire of iron-non-alloy steel; plated-coated with zinc",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",17
+721722,hs,NULL,NULL,"Wire; iron or non-alloy steel; zinc plated-coated; 0.25-0.6%C",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",18
+721732,hs,NULL,NULL,"Wire; iron or non-alloy steel; zinc plated-coated; >0.6%C",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",19
+722591,hs,NULL,NULL,"Other n.e.s. in 72.25; flat-rolled products of other alloy steel; of a width of 600 mm-more; of electrolytically plated-coated with zinc.",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",20
+722592,hs,NULL,NULL,"Other n.e.s. in 72.25; flat-rolled products of other alloy steel; of a width of 600 mm-more; of othw. plated-coated with zinc.",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",21
+722693,hs,NULL,NULL,"Flat-rolled prods. of oth. alloy steel (excl. stainless-silicon-electrical-etc)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",22
+722694,hs,NULL,NULL,"Flat-rolled prods. of oth. alloy steel (excl. stainless-silicon-electrical-etc)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",23
+740321,hs,NULL,NULL,"Copper-zinc base alloys (brass); unwrought",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",24
+740721,hs,NULL,NULL,"Bars; rods & profiles; of copper-zinc base alloys (brass)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",25
+740821,hs,NULL,NULL,"Wire of copper-zinc base alloys (brass)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",26
+740921,hs,NULL,NULL,"Copper plates; sheets & strip; of a thickness >0.15mm; of copper-zinc base alloys (brass); in coils",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",27
+740929,hs,NULL,NULL,"Copper plates; sheets & strip; of a thickness >0.15mm; of copper-zinc base alloys (brass); other than in coils",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",28
+741121,hs,NULL,NULL,"Copper tubes & pipes; of copper-zinc base alloys (brass)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",29
+790120,hs,NULL,NULL,"Zinc alloys; unwrought",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",30
+790310,hs,NULL,NULL,"Zinc dust",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",31
+790390,hs,NULL,NULL,"Zinc powders & flakes",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",32
+790400,hs,NULL,NULL,"Zinc bars; rods; profiles & wire",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",33
+790500,hs,NULL,NULL,"Zinc plates; sheets; strip & foil",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",34
+790600,hs,NULL,NULL,"Zinc tubes; pipes & tube-pipe fittings (e.g.; couplings; elbows; sleeves)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",35
+790700,hs,NULL,NULL,"Other articles of zinc.",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",36
+731441,hs,NULL,NULL,"Net-fencing; galvanized iron or non-alloy steel <3mm wire; <100cm mesh",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",37
+790710,hs,NULL,NULL,"Zinc fabricated building components (gutters; etc.)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",38
+8703,hs,NULL,NULL,"Passenger vehicles",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",39
+8701,hs,NULL,NULL,"Good and transport vehicles",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",40
+8702,hs,NULL,NULL,"Good and transport vehicles",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",41
+8704,hs,NULL,NULL,"Good and transport vehicles",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",42
+8705,hs,NULL,NULL,"Good and transport vehicles",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",43
+8711,hs,NULL,NULL,Motorcycles,6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",44
+8415,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",45
+8418,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",46
+8450,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",47
+842211,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",48
+845121,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",49
+8471,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",50
+8508,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",51
+8509,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",52
+8510,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",53
+8516,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",54
+8517,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",55
+8518,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",56
+8526,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",57
+8528,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",58
+852210,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",59
+852290,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",60
+852550,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",61
+852560,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",62
+852910,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",63
+852990,hs,NULL,NULL,"Electrical and electronic products",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",64
+8454,hs,NULL,NULL,"Industrial and metal working machinery",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",65
+8455,hs,NULL,NULL,"Industrial and metal working machinery",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",66
+8468,hs,NULL,NULL,"Industrial and metal working machinery",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",67
+8515,hs,NULL,NULL,"Industrial and metal working machinery",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",68
+720429,hs,NULL,NULL,"Waste & scrap of alloy steel other than stainless steel",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",69
+740400,hs,NULL,NULL,"Copper waste & scrap",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",70
+790200,hs,NULL,NULL,"Zinc waste & scrap",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",71
+262011,hs,NULL,NULL,"Ash or residues containing hard zinc spelter",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",72
+262019,hs,NULL,NULL,"Ash or residues containing mainly zinc (not spelter)",6,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",73

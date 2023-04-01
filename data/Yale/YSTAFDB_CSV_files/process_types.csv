@@ -1,0 +1,5 @@
+process_type,notes,contributor_id,date_created,date_updated,process_type_id
+NULL,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",1
+distributive,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",2
+transformative,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",3
+storage,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",4

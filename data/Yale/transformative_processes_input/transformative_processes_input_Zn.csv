@@ -1,0 +1,333 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+58,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+58,PEM,production of engineering materials,1;1,production,1
+58,PEM,production of engineering materials,1;1,engineering materials,2
+58,PEM,production,1;1;1,mining and beneficiation,1
+58,PEM,production,1;1;1,refining,2
+58,PEM,mining and beneficiation,1;1;1;1,mining,1
+58,PEM,mining and beneficiation,1;1;1;2,beneficiation,2
+58,PEM,aggregate production of engineering materials,1,production of engineering materials,1'
+58,PEM,production of engineering materials,1;1',concentrate,1
+58,PEM,production of engineering materials,1;1',refined Zn,2
+58,PEM,production of engineering materials,1;1',tailings,3
+58,PEM,production of engineering materials,1;1',slag,4
+58,PEM,production of engineering materials,1;1,production,1'
+58,PEM,production of engineering materials,1;1,engineering materials,2'
+58,PEM,production,1;1;1',primary production,1
+58,PEM,production,1;1;1',secondary production,2
+58,PEM,production,1;1;1',primary production,1'
+58,PEM,production,1;1;1',secondary production,2'
+58,PEM,primary production,1;1;1';1',primary production product,1
+58,PEM,primary production,1;1;1';1',primary production waste,2
+58,PEM,secondary production,1;1;1';2',secondary production product,1
+58,PEM,secondary production,1;1;1';2',secondary production waste,2
+58,PEM,production,1;1;1,mining and beneficiation,1'
+58,PEM,production,1;1;1,refining,2'
+58,PEM,mining and beneficiation,1;1;1;1',ore and concentrate,1
+58,PEM,refining,1;1;1;2',refining product,1
+58,PEM,refining,1;1;1;2',refining waste,2
+58,PEM,production,1;1;1,mining and beneficiation,1''
+58,PEM,production,1;1;1,refining,2''
+58,PEM,mining and beneficiation,1;1;1;1'',mining and beneficiation product,1
+58,PEM,mining and beneficiation,1;1;1;1'',mining and beneficiation waste,2
+58,PEM,refining,1;1;1;2'',primary refining,1
+58,PEM,refining,1;1;1;2'',secondary refining,2
+58,PEM,refining,1;1;1;2'',primary refining,1'
+58,PEM,refining,1;1;1;2'',secondary refining,2'
+58,PEM,primary refining,1;1;1;2'';1',primary refining product,1
+58,PEM,primary refining,1;1;1;2'';1',primary refining waste,2
+58,PEM,secondary refining,1;1;1;2'';2',secondary refining product,1
+58,PEM,secondary refining,1;1;1;2'';2',secondary refining waste,2
+58,F&M,aggregate fabrication manufacturing,2,fabrication and manufacturing,1
+58,F&M,fabrication and manufacturing,2;1,fabrication,1
+58,F&M,fabrication and manufacturing,2;1,manufacturing,2
+58,F&M,manufacturing,2;1;2,construction,1
+58,F&M,manufacturing,2;1;2,transport,2
+58,F&M,manufacturing,2;1;2,industrial machinery,3
+58,F&M,manufacturing,2;1;2,electrical and electronics,4
+58,F&M,manufacturing,2;1;2,agriculture,5
+58,F&M,manufacturing,2;1;2,miscellaneous,6
+58,F&M,aggregate fabrication manufacturing,2,fabrication and manufacturing,1'
+58,F&M,fabrication and manufacturing,2;1',semis and finished products,1
+58,F&M,fabrication and manufacturing,2;1',discards,2
+58,F&M,fabrication and manufacturing,2;1',new scrap,3
+58,F&M,semis and finished products,2;1';1,semis,1
+58,F&M,semis and finished products,2;1';1,finished products,2
+58,F&M,fabrication and manufacturing,2;1,fabrication,1'
+58,F&M,fabrication and manufacturing,2;1,manufacturing,2'
+58,F&M,fabrication,2;1;1',galvanizing,1
+58,F&M,fabrication,2;1;1',alloys,2
+58,F&M,fabrication,2;1;1',semis,3
+58,F&M,fabrication,2;1;1',chemicals,4
+58,F&M,fabrication,2;1;1',dust,5
+58,F&M,fabrication,2;1;1',miscellaneous,6
+58,F&M,manufacturing,2;1;2',product,1
+58,F&M,manufacturing,2;1;2',scrap,2
+58,F&M,manufacturing,2;1;2',waste,3
+58,F&M,galvanizing,2;1;1';1,continuous,1
+58,F&M,galvanizing,2;1;1';1,general,2
+58,F&M,galvanizing,2;1;1';1,galvalume,3
+58,F&M,galvanizing,2;1;1';1,galvanized tubes,4
+58,F&M,galvanizing,2;1;1';1,galvanized wire,5
+58,F&M,alloys,2;1;1';2,brass and bronze,1
+58,F&M,alloys,2;1;1';2,other alloys,2
+58,F&M,semis,2;1;1';3,sheet and roll,1
+58,F&M,semis,2;1;1';3,other,2
+58,F&M,chemicals,2;1;1';4,oxides,1
+58,F&M,chemicals,2;1;1';4,other chemicals,2
+58,F&M,dust,2;1;1';5,lithopone,1
+58,F&M,miscellaneous,2;1;1';6,batteries,1
+58,F&M,miscellaneous,2;1;1';6,thermal spray,2
+58,F&M,other,2;1;1';3;2,wire,1
+58,F&M,other,2;1;1';3;2,other,2
+58,F&M,fabrication and manufacturing,2;1,fabrication,1''
+58,F&M,fabrication and manufacturing,2;1,manufacturing,2''
+58,F&M,fabrication,2;1;1'',product,1
+58,F&M,fabrication,2;1;1'',scrap,2
+58,F&M,fabrication,2;1;1'',waste,3
+58,F&M,manufacturing,2;1;2'',product,1
+58,F&M,manufacturing,2;1;2'',scrap,2
+58,F&M,manufacturing,2;1;2'',waste,3
+58,F&M,fabrication and manufacturing,2;1,fabrication,1'''
+58,F&M,fabrication and manufacturing,2;1,manufacturing,2'''
+58,F&M,manufacturing,2;1;2''',galvanized,1
+58,F&M,manufacturing,2;1;2''',other,2
+58,F&M,galvanized,2;1;2''';1,product,1
+58,F&M,galvanized,2;1;2''';1,scrap,2
+58,F&M,galvanized,2;1;2''';1,waste,3
+58,F&M,other,2;1;2''';2,product,1
+58,F&M,other,2;1;2''';2,scrap,2
+58,F&M,other,2;1;2''';2,waste,3
+58,F&M,fabrication,2;1;1',galvanizing,1'
+58,F&M,fabrication,2;1;1',alloys,2'
+58,F&M,fabrication,2;1;1',semis,3'
+58,F&M,fabrication,2;1;1',chemicals,4'
+58,F&M,fabrication,2;1;1',dust,5'
+58,F&M,fabrication,2;1;1',miscellaneous,6'
+58,F&M,galvanizing,2;1;1';1',product,1
+58,F&M,galvanizing,2;1;1';1',scrap,2
+58,F&M,galvanizing,2;1;1';1',waste,3
+58,F&M,semis,2;1;1';3',product,1
+58,F&M,semis,2;1;1';3',scrap,2
+58,F&M,semis,2;1;1';3',waste,3
+58,F&M,chemicals,2;1;1';4',product,1
+58,F&M,chemicals,2;1;1';4',scrap,2
+58,F&M,chemicals,2;1;1';4',waste,3
+58,F&M,dust,2;1;1';5',product,1
+58,F&M,dust,2;1;1';5',scrap,2
+58,F&M,dust,2;1;1';5',waste,3
+58,F&M,miscellaneous,2;1;1';6',product,1
+58,F&M,miscellaneous,2;1;1';6',scrap,2
+58,F&M,miscellaneous,2;1;1';6',waste,3
+58,F&M,galvanizing,2;1;1';1,continuous,1'
+58,F&M,galvanizing,2;1;1';1,general,2'
+58,F&M,galvanizing,2;1;1';1,galvalume,3'
+58,F&M,galvanizing,2;1;1';1,galvanized tubes,4'
+58,F&M,galvanizing,2;1;1';1,galvanized wire,5'
+58,F&M,continuous,2;1;1';1;1',product,1
+58,F&M,continuous,2;1;1';1;1',scrap,2
+58,F&M,continuous,2;1;1';1;1',waste,3
+58,F&M,general,2;1;1';1;2',product,1
+58,F&M,general,2;1;1';1;2',scrap,2
+58,F&M,general,2;1;1';1;2',waste,3
+58,F&M,galvalume,2;1;1';1;3',product,1
+58,F&M,galvalume,2;1;1';1;3',scrap,2
+58,F&M,galvalume,2;1;1';1;3',waste,3
+58,F&M,galvanized tubes,2;1;1';1;4',product,1
+58,F&M,galvanized tubes,2;1;1';1;4',scrap,2
+58,F&M,galvanized tubes,2;1;1';1;4',waste,3
+58,F&M,galvanized wire,2;1;1';1;5',product,1
+58,F&M,galvanized wire,2;1;1';1;5',scrap,2
+58,F&M,galvanized wire,2;1;1';1;5',waste,3
+58,F&M,manufacturing,2;1;2,construction,1'
+58,F&M,manufacturing,2;1;2,transport,2'
+58,F&M,manufacturing,2;1;2,industrial machinery,3'
+58,F&M,manufacturing,2;1;2,electrical and electronics,4'
+58,F&M,manufacturing,2;1;2,agriculture,5'
+58,F&M,manufacturing,2;1;2,miscellaneous,6'
+58,F&M,construction,2;1;2;1',product,1
+58,F&M,construction,2;1;2;1',scrap,2
+58,F&M,construction,2;1;2;1',waste,3
+58,F&M,transport,2;1;2;2',product,1
+58,F&M,transport,2;1;2;2',scrap,2
+58,F&M,transport,2;1;2;2',waste,3
+58,F&M,industrial machinery,2;1;2;3',product,1
+58,F&M,industrial machinery,2;1;2;3',scrap,2
+58,F&M,industrial machinery,2;1;2;3',waste,3
+58,F&M,electrical and electronics,2;1;2;4',product,1
+58,F&M,electrical and electronics,2;1;2;4',scrap,2
+58,F&M,electrical and electronics,2;1;2;4',waste,3
+58,F&M,agriculture,2;1;2;5',product,1
+58,F&M,agriculture,2;1;2;5',scrap,2
+58,F&M,agriculture,2;1;2;5',waste,3
+58,F&M,miscellaneous,2;1;2;6',product,1
+58,F&M,miscellaneous,2;1;2;6',scrap,2
+58,F&M,miscellaneous,2;1;2;6',waste,3
+58,F&M,alloys,2;1;1';2,brass and bronze,1'
+58,F&M,alloys,2;1;1';2,other alloys,2'
+58,F&M,brass and bronze,2;1;1';2;1',product,1
+58,F&M,brass and bronze,2;1;1';2;1',scrap,2
+58,F&M,brass and bronze,2;1;1';2;1',waste,3
+58,F&M,other alloys,2;1;1';2;2',casting alloys,1
+58,F&M,other alloys,2;1;1';2;2',other alloys,2
+58,F&M,semis,2;1;1';3,sheet and roll,1'
+58,F&M,semis,2;1;1';3,other,2'
+58,F&M,sheet and roll,2;1;1';3;1',product,1
+58,F&M,sheet and roll,2;1;1';3;1',scrap,2
+58,F&M,sheet and roll,2;1;1';3;1',waste,3
+58,F&M,oxides and chemicals,2;1;1';4,oxides,1'
+58,F&M,chemicals,2;1;1';4,other chemicals,2'
+58,F&M,oxides,2;1;1';4;1',product,1
+58,F&M,oxides,2;1;1';4;1',scrap,2
+58,F&M,oxides,2;1;1';4;1',waste,3
+58,F&M,dust,2;1;1';5,lithopone,1'
+58,F&M,lithopone,2;1;1';5;1',product,1
+58,F&M,lithopone,2;1;1';5;1',scrap,2
+58,F&M,lithopone,2;1;1';5;1',waste,3
+58,F&M,miscellaneous,2;1;1';6,batteries,1'
+58,F&M,miscellaneous,2;1;1';6,thermal spray,2'
+58,F&M,batteries,2;1;1';6;1',product,1
+58,F&M,batteries,2;1;1';6;1',scrap,2
+58,F&M,batteries,2;1;1';6;1',waste,3
+58,F&M,thermal spray,2;1;1';6;2',product,1
+58,F&M,thermal spray,2;1;1';6;2',scrap,2
+58,F&M,thermal spray,2;1;1';6;2',waste,3
+58,F&M,other alloys,2;1;1';2;2',casting alloys,1'
+58,F&M,other alloys,2;1;1';2;2',other alloys,2'
+58,F&M,casting alloys,2;1;1';2;2';1',product,1
+58,F&M,casting alloys,2;1;1';2;2';1',scrap,2
+58,F&M,casting alloys,2;1;1';2;2';1',waste,3
+58,F&M,other,2;1;1';3;2,wire,1'
+58,F&M,other,2;1;1';3;2,other,2'
+58,F&M,wire,2;1;1';3;2;1',product,1
+58,F&M,wire,2;1;1';3;2;1',scrap,2
+58,F&M,wire,2;1;1';3;2;1',waste,3
+58,USE,aggregate use,3,use,1
+58,USE,use,3;1,construction,1
+58,USE,use,3;1,transport,2
+58,USE,use,3;1,industrial machinery,3
+58,USE,use,3;1,electrical and electronics,4
+58,USE,use,3;1,agriculture,5
+58,USE,use,3;1,miscellaneous,6
+58,USE,aggregate use,3,use,1'
+58,USE,use,3;1',buildings and construction,1
+58,USE,use,3;1',transport,2
+58,USE,use,3;1',business durables,3
+58,USE,use,3;1',consumer durables,4
+58,USE,use,3;1',public infrastructure,5
+58,USE,aggregate use,3,use,1''
+58,USE,use,3;1'',non-dissipative,1
+58,USE,use,3;1'',dissipative,2
+58,USE,non-dissipative,3;1'';1,municipal solid waste and construction demolition waste,1
+58,USE,non-dissipative,3;1'';1,waste electronic and electrical equipment,2
+58,USE,non-dissipative,3;1'';1,end of life vehicles,3
+58,USE,non-dissipative,3;1'';1,non-hazardous industrial waste and hazardous industrial waste,4
+58,USE,non-dissipative,3;1'';1,sewage sludge,5
+58,USE,dissipative,3;1'';2,construction,1
+58,USE,dissipative,3;1'';2,transport,2
+58,USE,dissipative,3;1'';2,industrial machinery,3
+58,USE,dissipative,3;1'';2,electrical and electronics,4
+58,USE,dissipative,3;1'';2,agriculture,5
+58,USE,dissipative,3;1'';2,miscellaneous,6
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1,paper and cardboard,1
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1,metals,2
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1,glass,3
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1,textiles,4
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1,plastics,5
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1,biomass,6
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1,other,7
+58,USE,non-dissipative,3;1'';1;3,vehicles,1
+58,USE,non-dissipative,3;1'';1;3,tyres,2
+58,USE,non-hazardous industrial waste and hazadous industrial waste,3;1'';1;4,non-hazardous industrial waste,1
+58,USE,non-hazardous industrial waste and hazadous industrial waste,3;1'';1;4,hazardous industrial waste,2
+58,USE,vehicles,3;1'';1;3;1,cars,1
+58,USE,vehicles,3;1'';1;3;1,trucks and buses,2
+58,USE,aggregate use,3,use,1'''
+58,USE,use,3;1''',galvanizing,1
+58,USE,use,3;1''',casting alloys,2
+58,USE,use,3;1''',brass and bronze,3
+58,USE,use,3;1''',other,4
+58,USE,use,3;1',buildings and construction,1'
+58,USE,use,3;1',transport,2'
+58,USE,use,3;1',business durables,3'
+58,USE,use,3;1',consumer durables,4'
+58,USE,use,3;1',public infrastructure,5'
+58,USE,construction,3;1';1',single family homes,1
+58,USE,construction,3;1';1',units,2
+58,USE,construction,3;1';1',informal dwellings,3
+58,USE,construction,3;1';1',commercial and industrial buildings,4
+58,USE,transport,3;1';2',motor vehicles,1
+58,USE,transport,3;1';2',tyres,2
+58,USE,use,3;1'',non-dissipative,1'
+58,USE,use,3;1'',dissipative,2'
+58,USE,non-dissipative,3;1'';1',construction,1
+58,USE,non-dissipative,3;1'';1',transport,2
+58,USE,non-dissipative,3;1'';1',industrial machinery,3
+58,USE,non-dissipative,3;1'';1',electrical and electronics,4
+58,USE,non-dissipative,3;1'';1',agriculture,5
+58,USE,non-dissipative,3;1'';1',miscellaneous,6
+58,USE,non-dissipative,3;1'';1,municipal solid waste and construction demolition waste,1'
+58,USE,non-dissipative,3;1'';1,waste electronic and electrical equipment,2'
+58,USE,non-dissipative,3;1'';1,end of life vehicles,3'
+58,USE,non-dissipative,3;1'';1,non-hazardous industrial waste and hazardous industrial waste,4'
+58,USE,non-dissipative,3;1'';1,sewage sludge,5'
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1',municipal solid waste,1
+58,USE,municipal solid waste and construction demolition waste,3;1'';1;1',construction and demolition waste,2
+58,USE,non-dissipative,3;1'';1;3,vehicles,1'
+58,USE,non-dissipative,3;1'';1;3,tyres,2'
+58,USE,vehicles,3;1'';1;3;1',passenger vehicles,1
+58,USE,vehicles,3;1'';1;3;1',commercial vehicles,2
+58,WMR,aggregate waste management,4,waste management,1
+58,WMR,waste management,4;1,recycled scrap,1
+58,WMR,waste management,4;1,not recycled,2
+58,WMR,recycled scrap,4;1;1,recycled old scrap,1
+58,WMR,recycled scrap,4;1;1,recycled new scrap,2
+58,WMR,not recycled,4;1;2,construction,1
+58,WMR,not recycled,4;1;2,transport,2
+58,WMR,not recycled,4;1;2,industrial machinery,3
+58,WMR,not recycled,4;1;2,electrical and electronics,4
+58,WMR,not recycled,4;1;2,agriculture,5
+58,WMR,not recycled,4;1;2,miscellaneous,6
+58,WMR,waste management,4;1,recycled scrap,1'
+58,WMR,waste management,4;1,not recycled,2'
+58,WMR,recycled scrap,4;1;1',construction,1
+58,WMR,recycled scrap,4;1;1',transport,2
+58,WMR,recycled scrap,4;1;1',industrial machinery,3
+58,WMR,recycled scrap,4;1;1',electrical and electronics,4
+58,WMR,recycled scrap,4;1;1',agriculture,5
+58,WMR,recycled scrap,4;1;1',miscellaneous,6
+58,ENV,aggregate environment,5,environment,1
+58,ENV,environment,5;1,tailings,1
+58,ENV,environment,5;1,slag,2
+58,ENV,environment,5;1,sludge slimes,3
+58,ENV,environment,5;1,leachate,4
+58,ENV,environment,5;1,landfill,5
+58,ENV,environment,5;1,lithosphere economic resources,6
+58,ENV,environment,5;1,ashes particulates,7
+58,ENV,environment,5;1,hazardous waste,8
+58,ENV,environment,5;1,dissipation,9
+58,ENV,environment,5;1,earth orbit,10
+58,ENV,environment,5;1,moon,11
+58,ENV,environment,5;1,atmosphere,12
+58,ENV,environment,5;1,fossil fuel resources,13
+58,ENV,environment,5;1,agricultural biomass,14
+58,ENV,environment,5;1,terrestrial biomass,15
+58,ENV,environment,5;1,soil,16
+58,ENV,environment,5;1,continental regolith,17
+58,ENV,environment,5;1,freshwater,18
+58,ENV,environment,5;1,oceans,19
+58,ENV,environment,5;1,ocean biomass,20
+58,ENV,environment,5;1,mantle,21
+58,ENV,environment,5;1,core,22
+58,ENV,environment,5;1,oceanic regolith,23
+58,ENV,environment,5;1,consolidated crust,24
+58,ENV,environment,5;1,universe non earth planetary bodies,25
+58,ENV,dissipation,5;1;9,land,1
+58,ENV,dissipation,5;1;9,water bodies,2
+58,ENV,dissipation,5;1;9,air,3
+58,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+58,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+58,ENV,consolidated crust,5;1;24,upper continental crust,1
+58,ENV,consolidated crust,5;1;24,middle continental crust,2
+58,ENV,consolidated crust,5;1;24,lower continental crust,3
+58,ENV,consolidated crust,5;1;24,oceanic crust,4

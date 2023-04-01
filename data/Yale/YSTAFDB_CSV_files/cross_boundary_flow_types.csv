@@ -1,0 +1,6 @@
+cross_boundary_flow_type,notes,contributor_id,date_created,date_updated,cross_boundary_flow_type_id
+NULL,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",1
+import,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",2
+export,NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",3
+"net import",NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",4
+"net export",NULL,1,"2019-02-04 14:46:59","2019-02-04 14:46:59",5

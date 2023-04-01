@@ -1,0 +1,114 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+12,PEM,aggregate production engineering materials,1,production of engineering materials,1
+12,PEM,production engineering materials,1;1,production,1
+12,PEM,production engineering materials,1;1,engineering materials,2
+12,PEM,production,1;1;1,mining beneficiation,1
+12,PEM,engineering materials,1;1;2,high grade ore,1
+12,PEM,engineering materials,1;1;2,refined metal,2
+12,PEM,engineering materials,1;1;2,slag,3
+12,PEM,engineering materials,1;1;2,stainless steel dissipation air,4
+12,PEM,mining beneficiation,1;1;1;1,concentrate,1
+12,PEM,mining beneficiation,1;1;1;1,tailings,2
+12,PEM,high grade ore,1;1;2;1,chemical grade ore,1
+12,PEM,high grade ore,1;1;2;1,refractory grade ore,2
+12,PEM,refined metal,1;1;2;2,Cr metal,1
+12,PEM,refined metal,1;1;2;2,FeCr alloys,2
+12,PEM,refined metal,1;1;2;2,steel alloys,3
+12,PEM,slag,1;1;2;3,FeCr slag,1
+12,PEM,slag,1;1;2;3,stainless steel slag,2
+12,PEM,Cr metal,1;1;2;2;1,aluminothermic Cr,1
+12,PEM,Cr metal,1;1;2;2;1,electrolytic Cr,2
+12,PEM,FeCr alloys,1;1;2;2;2,high carbon charge grade FeCr,1
+12,PEM,FeCr alloys,1;1;2;2;2,FeSiCr,2
+12,PEM,FeCr alloys,1;1;2;2;2,other FeCr,3
+12,PEM,steel alloys,1;1;2;2;3,stainless steel,1
+12,PEM,steel alloys,1;1;2;2;3,alloy steel,2
+12,PEM,steel alloys,1;1;2;2;3,nickel steel,3
+12,PEM,aggregate production engineering materials,1,production of engineering materials,1'
+12,PEM,production of engineering materials,1;1',ore and concentrate,1
+12,F&M,aggregate fabrication manufacturing,2,fabrication and manufacturing,1
+12,F&M,fabrication manufacturing,2;1,fabrication,1
+12,F&M,fabrication manufacturing,2;1,manufacturing,2
+12,USE,manufacturing,2;1;2,buildings infrastructure,1
+12,USE,manufacturing,2;1;2,transport,2
+12,USE,manufacturing,2;1;2,industrial machinery,3
+12,USE,manufacturing,2;1;2,household appliances electronics,4
+12,USE,manufacturing,2;1;2,metal goods and other,5
+12,F&M,aggregate fabrication manufacturing,2,fabrication and manufacturing,1'
+12,F&M,fabrication and manufacturing,2;1',semis and finished products,1
+12,F&M,fabrication and manufacturing,2;1',scrap,2
+12,F&M,fabrication and manufacturing,2;1',waste,3
+12,F&M,semis and finished products,2;1';1,semis,1
+12,F&M,semis and finished products,2;1';1,finished products,2
+12,F&M,scrap,2;1';2,prompt scrap,1
+12,F&M,scrap,2;1';2,downgraded scrap,2
+12,F&M,waste,2;1';3,industrial waste,1
+12,F&M,waste,2;1';3,hazardous waste,2
+12,F&M,aggregate fabrication manufacturing,2,fabrication and manufacturing,1''
+12,F&M,fabrication and manufacturing,2;1'',industrial waste and scrap,1
+12,USE,aggregate use,3,use,1
+12,USE,use,3;1,buildings infrastructure,1
+12,USE,use,3;1,transport,2
+12,USE,use,3;1,industrial machinery,3
+12,USE,use,3;1,household appliances electronics,4
+12,USE,use,3;1,metal goods and other,5
+12,USE,aggregate use,3,use,1'
+12,USE,use,3;1',non-dissipative,1
+12,USE,use,3;1',dissipative,2
+12,WMR,aggregate waste management,4,waste management,1
+12,WMR,waste management,4;1,collection separation,1
+12,WMR,waste management,4;1,incineration,2
+12,WMR,collection,4;1;1,construction demolition,1
+12,WMR,collection,4;1;1,end of life vehicles,2
+12,WMR,collection,4;1;1,municipal solid waste,3
+12,WMR,collection,4;1;1,sewage and sewage sludge,4
+12,WMR,collection,4;1;1,waste electrical electronic equipment,5
+12,WMR,collection,4;1;1,industrial waste,6
+12,WMR,collection,4;1;1,hazardous waste,7
+12,WMR,collection,4;1;1,other,8
+12,WMR,aggregate waste management,4,waste management,1'
+12,WMR,waste management,4;1',scrap,1
+12,WMR,waste management,4;1',cargo and wastes,2
+12,WMR,scrap,4;1';1,old scrap,1
+12,WMR,scrap,4;1';1,new scrap,2
+12,WMR,aggregate waste management,4,waste management,1''
+12,WMR,waste management,4;1'',recycled,1
+12,WMR,waste management,4;1'',not recycled,2
+12,WMR,recycled,4;1'';1,old scrap,1
+12,WMR,recycled,4;1'';1,new scrap,2
+12,ENV,aggregate environment,5,environment,1
+12,ENV,environment,5;1,tailings,1
+12,ENV,environment,5;1,slag,2
+12,ENV,environment,5;1,sludge slimes,3
+12,ENV,environment,5;1,leachate,4
+12,ENV,environment,5;1,landfill,5
+12,ENV,environment,5;1,lithosphere economic resources,6
+12,ENV,environment,5;1,ashes particulates,7
+12,ENV,environment,5;1,hazardous waste,8
+12,ENV,environment,5;1,dissipation,9
+12,ENV,environment,5;1,earth orbit,10
+12,ENV,environment,5;1,moon,11
+12,ENV,environment,5;1,atmosphere,12
+12,ENV,environment,5;1,fossil fuel resources,13
+12,ENV,environment,5;1,agricultural biomass,14
+12,ENV,environment,5;1,terrestrial biomass,15
+12,ENV,environment,5;1,soil,16
+12,ENV,environment,5;1,continental regolith,17
+12,ENV,environment,5;1,freshwater,18
+12,ENV,environment,5;1,oceans,19
+12,ENV,environment,5;1,ocean biomass,20
+12,ENV,environment,5;1,mantle,21
+12,ENV,environment,5;1,core,22
+12,ENV,environment,5;1,oceanic regolith,23
+12,ENV,environment,5;1,consolidated crust,24
+12,ENV,environment,5;1,universe non earth planetary bodies,25
+12,ENV,slag,5;1;2,FeCr slag,1
+12,ENV,dissipation,5;1;9,landfill,1
+12,ENV,dissipation,5;1;9,water bodies,2
+12,ENV,dissipation,5;1;9,air,3
+12,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+12,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+12,ENV,consolidated crust,5;1;24,upper continental crust,1
+12,ENV,consolidated crust,5;1;24,middle continental crust,2
+12,ENV,consolidated crust,5;1;24,lower continental crust,3
+12,ENV,consolidated crust,5;1;24,oceanic crust,4

@@ -1,0 +1,81 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+61,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+61,PEM,production of engineering materials,1;1,research reactors,1
+61,PEM,production of engineering materials,1;1,nuclear powered vessels,2
+61,PEM,production of engineering materials,1;1,power plants,3
+61,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+61,F&M,fabrication and manufacturing,2;1,unsealed and sealed sources,1
+61,F&M,fabrication and manufacturing,2;1,devices,2
+61,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1'
+61,F&M,fabrication and manufacturing,2;1',products,1
+61,USE,aggregate use,3,use,1
+61,USE,use,3;1,orphaned sources,1
+61,USE,use,3;1,devices,2
+61,USE,use,3;1,radioactive decay,3
+61,USE,devices,3;1;2,managed devices,1
+61,USE,devices,3;1;2,unmanaged devices,2
+61,USE,aggregate use,3,use,1'
+61,USE,use,3;1',brachytherapy,1
+61,USE,use,3;1',well logging,2
+61,USE,use,3;1',irradiator,3
+61,USE,use,3;1',gauges,4
+61,USE,use,3;1',bulk materials elemental analyzer,5
+61,USE,use,3;1',depleted uranium collimator,6
+61,USE,use,3;1',liquid scintillation counter calibration,7
+61,USE,use,3;1',loose calibration source,8
+61,USE,use,3;1',electron tube,9
+61,USE,use,3;1',ionizing radiation measurement instruments,10
+61,USE,brachytherapy,3;1';1,manual afterloading,1
+61,USE,brachytherapy,3;1';1,ldr remote afterloading,2
+61,USE,irradiator,3;1';3,general license,1
+61,USE,irradiator,3;1';3,specific license,2
+61,USE,gauges,3;1';4,fixed gauge small calibrator,1
+61,USE,gauges,3;1';4,portable gauge,2
+61,USE,fixed gauge small calibrator,3;1';4;1,general license,1
+61,USE,fixed gauge small calibrator,3;1';4;1,specific license,2
+61,USE,fixed gauge small calibrator,3;1';4;1,neutron source,3
+61,WMR,aggregate waste management,4,waste management,1
+61,WMR,waste management,4;1,source and device fabricators,1
+61,WMR,waste management,4;1,metal scrap,2
+61,WMR,waste management,4;1,low level waste disposal,3
+61,WMR,waste management,4;1,high level waste disposal,4
+61,WMR,waste management,4;1,temporary storage,5
+61,WMR,source and device fabricators,4;1;1,recycled,1
+61,WMR,source and device fabricators,4;1;1,not recycled,2
+61,WMR,metal scrap factory,4;1;2,unattained items,1
+61,ENV,aggregate environment,5,environment,1
+61,ENV,environment,5;1,tailings,1
+61,ENV,environment,5;1,slag,2
+61,ENV,environment,5;1,sludge slimes,3
+61,ENV,environment,5;1,leachate,4
+61,ENV,environment,5;1,landfill,5
+61,ENV,environment,5;1,lithosphere economic resources,6
+61,ENV,environment,5;1,ashes particulates,7
+61,ENV,environment,5;1,hazardous waste,8
+61,ENV,environment,5;1,dissipation,9
+61,ENV,environment,5;1,earth orbit,10
+61,ENV,environment,5;1,moon,11
+61,ENV,environment,5;1,atmosphere,12
+61,ENV,environment,5;1,fossil fuel resources,13
+61,ENV,environment,5;1,agricultural biomass,14
+61,ENV,environment,5;1,terrestrial biomass,15
+61,ENV,environment,5;1,soil,16
+61,ENV,environment,5;1,continental regolith,17
+61,ENV,environment,5;1,freshwater,18
+61,ENV,environment,5;1,oceans,19
+61,ENV,environment,5;1,ocean biomass,20
+61,ENV,environment,5;1,mantle,21
+61,ENV,environment,5;1,core,22
+61,ENV,environment,5;1,oceanic regolith,23
+61,ENV,environment,5;1,consolidated crust,24
+61,ENV,environment,5;1,universe non earth planetary bodies,25
+61,ENV,environment,5;1,radioactive decay,26
+61,ENV,dissipation,5;1;9,land,1
+61,ENV,dissipation,5;1;9,water bodies,2
+61,ENV,dissipation,5;1;9,air,3
+61,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+61,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+61,ENV,consolidated crust,5;1;24,upper continental crust,1
+61,ENV,consolidated crust,5;1;24,middle continental crust,2
+61,ENV,consolidated crust,5;1;24,lower continental crust,3
+61,ENV,consolidated crust,5;1;24,oceanic crust,4

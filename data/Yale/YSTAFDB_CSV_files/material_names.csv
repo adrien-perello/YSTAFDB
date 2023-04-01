@@ -1,0 +1,527 @@
+material_name,notes,contributor_id,date_created,date_updated,material_name_id
+"lithosphere economic resources output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",1
+"mining output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",2
+"photography output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",3
+"jewelry and silverware output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",4
+"electronics output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",5
+"brazing alloys and solder output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",6
+"coins and medals output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",7
+"other output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",8
+"manufacturing output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",9
+"recycled scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",10
+"municipal solid waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",11
+"waste electronic and electrical equipment output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",12
+"sewage and sewage sludge output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",13
+"non-hazardous industrial waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",14
+"hazardous industrial waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",15
+"separation treatment output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",16
+"incineration output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",17
+"production of engineering materials output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",18
+"fabrication and manufacturing output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",19
+"use output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",20
+"waste management output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",21
+"earth orbit output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",22
+"atmosphere output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",23
+"fossil fuel resources output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",24
+"agricultural biomass output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",25
+"terrestrial biomass output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",26
+"soil output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",27
+"freshwater output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",28
+"oceans output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",29
+"ocean biomass output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",30
+"seafloor regolith output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",31
+"upper continental crust output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",32
+"lower continental crust output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",33
+"mantle output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",34
+"universe non earth planetary bodies output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",35
+"product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",36
+"tailings output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",37
+"waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",38
+"non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",39
+"downcycle output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",40
+"recycle output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",41
+"batteries output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",42
+"construction and demolition waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",43
+"industrial waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",44
+"hazardous waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",45
+"end of life vehicles",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",46
+"new scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",47
+"old scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",48
+"cathode Cu output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",49
+"slag output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",50
+"finished products output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",51
+"Cu metal products output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",52
+"Cu alloy products output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",53
+"scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",54
+"not recycled output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",55
+"continental regolith output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",56
+"oceanic regolith output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",57
+"consolidated crust output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",58
+"production of engineering materials refined Zn output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",59
+"refined Zn output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",60
+"discards output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",61
+"wiring output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",62
+"plumbing output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",63
+"other hardware output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",64
+"hvac and air conditioning and refrigeration output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",65
+"elevators escalators dumbwaiters output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",66
+"architectural roofing gutters etc output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",67
+"other built-in appliances output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",68
+"chromated copper arsenate lumber output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",69
+"electrical output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",70
+"electronic output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",71
+"industrial machinery and equipment output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",72
+"auto vehicles output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",73
+"air output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",74
+"marine output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",75
+"electrical power cable output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",76
+"transformers output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",77
+"railway overhead contact system wire",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",78
+"power stations output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",79
+"telecommunications output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",80
+"water distribution output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",81
+"gas distribution output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",82
+"streetscape electrical wire output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",83
+"building wire output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",84
+"tube output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",85
+"motor vehicle wire output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",86
+"magnet wire output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",87
+"telecommunications wire output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",88
+"power cable output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",89
+"sheet strip output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",90
+"casting alloy output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",91
+"rod output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",92
+"other alloy output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",93
+"industrial and hazardous waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",94
+"single family houses output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",95
+"units in shared living complexes output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",96
+"commercial output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",97
+"industrial output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",98
+"building and construction output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",99
+"electricity transmission and distribution output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",100
+"rail output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",101
+"consumer durables output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",102
+"commercial durables output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",103
+"other dwellings output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",104
+industrial,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",105
+"power stations",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",106
+telecommunications,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",107
+"auto vehicles",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",108
+"municipal solid waste and construction demolition waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",109
+"end of life vehicles output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",110
+"bauxite mining metal product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",111
+"bauxite mining waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",112
+"bauxite mining output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",113
+"alumina refining metal product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",114
+"alumina refining waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",115
+"primary aluminum smelting metal product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",116
+"primary aluminum smelting waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",117
+"ingot casting product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",118
+"ingot casting waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",119
+"fabrication scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",120
+"fabrication output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",121
+"fabrication waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",122
+"foundry casting scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",123
+"foundry casting product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",124
+"foundry casting waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",125
+"rolling scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",126
+"rolling output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",127
+"rolling waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",128
+"extrusion drawing scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",129
+"extrusion drawing output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",130
+"extrusion drawing waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",131
+"other scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",132
+"other product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",133
+"other waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",134
+"sand castings scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",135
+"sand castings output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",136
+"sand castings waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",137
+"mold castings scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",138
+"mold castings output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",139
+"mold castings waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",140
+"die castings scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",141
+"die castings output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",142
+"die castings waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",143
+"other castings scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",144
+"other castings output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",145
+"other castings waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",146
+"sheet plate scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",147
+"sheet plate output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",148
+"sheet plate waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",149
+"foil scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",150
+"foil output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",151
+"foil waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",152
+"electrical conductor scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",153
+"electrical conductor output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",154
+"electrical conductor waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",155
+"wire scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",156
+"wire output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",157
+"wire waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",158
+"powder paste scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",159
+"powder paste waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",160
+"forgings impacts scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",161
+"forgings impacts output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",162
+"forgings impacts waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",163
+"manufacturing scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",164
+"manufacturing waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",165
+"transport output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",166
+"transport scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",167
+"transport waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",168
+"construction output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",169
+"construction scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",170
+"construction waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",171
+"industrial machinery output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",172
+"industrial machinery scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",173
+"industrial machinery waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",174
+"consumer durables scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",175
+"consumer durables waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",176
+"electrical scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",177
+"electrical waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",178
+"containers packaging output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",179
+"containers packaging scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",180
+"containers packaging waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",181
+"dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",182
+"transport non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",183
+"construction non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",184
+"industrial machinery non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",185
+"consumer durables non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",186
+"electrical scrap non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",187
+"containers packaging non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",188
+"other non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",189
+"fabrication and manufacturing scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",190
+"new scrap product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",191
+"new scrap waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",192
+"old scrap product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",193
+"old scrap waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",194
+"collection output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",195
+"separation treatment product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",196
+"separation treatment waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",197
+"melting product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",198
+"melting waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",199
+"secondary smelters product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",200
+"secondary smelters waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",201
+"integrated producers product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",202
+"integrated producers waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",203
+"others product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",204
+"others waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",205
+"automotives non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",206
+"bicycles non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",207
+"aerospace non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",208
+"marine non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",209
+"rail non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",210
+"cargo non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",211
+"residential non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",212
+"nonresidential non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",213
+"signs non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",214
+"street lights non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",215
+"electrical non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",216
+"transmission distribution non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",217
+"transformation non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",218
+"generation equipment non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",219
+"household durables non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",220
+"white goods non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",221
+"electrical non white goods non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",222
+"commercial durables non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",223
+"manufacturing machinery non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",224
+"construction machinery non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",225
+"agricultural machinery non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",226
+"cans non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",227
+"other packaging non-dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",228
+"recycled old scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",229
+"recycled new scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",230
+"landfill output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",231
+"refined metal output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",232
+"products output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",233
+"Cu metal and alloys",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",234
+"recycled output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",235
+"bauxite mining waste",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",236
+"alumina refining output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",237
+"primary aluminum smelting output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",238
+"ingot casting output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",239
+"foundry casting output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",240
+"outpution engineering materials output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",241
+"collected output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",242
+"refined Pb output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",243
+"concentrate output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",244
+"batteries product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",245
+"batteries dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",246
+"sheet pipe product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",247
+"sheet pipe dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",248
+"cable sheathing product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",249
+"cable sheathing dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",250
+"alloys product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",251
+"alloys dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",252
+"other dissipative output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",253
+"cable sheathing hibernation output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",254
+"ore and concentrate output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",255
+"engineering materials output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",256
+"semis output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",257
+"FeCr slag output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",258
+"FeCr alloys output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",259
+"chemical grade ore output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",260
+"refractory grade ore output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",261
+"prompt scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",262
+"downgraded scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",263
+"high carbon charge grade FeCr output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",264
+"other FeCr output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",265
+"FeSiCr output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",266
+"stainless steel output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",267
+"stainless steel slag output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",268
+"stainless steel dissipation air output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",269
+"alloy steel output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",270
+"nickel steel output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",271
+"aluminothermic Cr output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",272
+"electrolytic Cr output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",273
+"construction demolition output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",274
+"waste electrical electronic equipment output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",275
+"refined Pt output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",276
+"automobiles output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",277
+"medical output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",278
+"petrochemical output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",279
+"electrical and electronic output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",280
+"chemical output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",281
+"steel output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",282
+"military output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",283
+"compounds output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",284
+"slag & other residues output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",285
+"residues output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",286
+"autocatalysts output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",287
+"medical biomedical and dental output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",288
+"jewelry output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",289
+"research reactors output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",290
+"nuclear powered vessels output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",291
+"power plants output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",292
+"unsealed and sealed sources output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",293
+"source and device fabricators output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",294
+"devices output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",295
+"unmanaged devices output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",296
+"metal scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",297
+"radioactive decay output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",298
+"iron ore output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",299
+"pig iron output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",300
+"raw steel output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",301
+"finished steel output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",302
+"home scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",303
+"castings output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",304
+"scrap and waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",305
+other,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",306
+"on-site sand waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",307
+"mining phosphate mine slimes output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",308
+"phosphoric tailings output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",309
+"beneficiation phosphate mine slimes output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",310
+"phosphogypsum output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",311
+"ferrophosphorus output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",312
+"phosphorus slag output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",313
+"crop residues output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",314
+"animal waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",315
+"excreta output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",316
+"other human waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",317
+"food waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",318
+"runoff output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",319
+"leaching output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",320
+"phosphate rock mining output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",321
+"industrial production output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",322
+"agricultural production output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",323
+"societal consumption output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",324
+"phosphate rock output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",325
+"marketable phosphate rock concentrate output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",326
+"food processing output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",327
+"food product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",328
+"phosphoric acid output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",329
+"maketable phosphate rock concentrate output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",330
+"chemical fertilizer output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",331
+"other P products output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",332
+"detergents output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",333
+"industrial uses output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",334
+"food and feed additives output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",335
+"other uses output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",336
+"harvesting crops output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",337
+"grass output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",338
+"agricultural soil output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",339
+"animal food output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",340
+"feed processing output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",341
+"feed additives output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",342
+"food crops product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",343
+"Cu metal output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",344
+"Cu alloy output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",345
+"industrial waste and scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",346
+"slag and leachate output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",347
+"leachate output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",348
+"dissipated output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",349
+"cement output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",350
+"coal output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",351
+"AgO batteries output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",352
+amalgam,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",353
+"hazardous industrial waste",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",354
+"non-hazardous industrial waste and hazardous industrial waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",355
+"sewage output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",356
+"sewage sludge output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",357
+"end of life output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",358
+"hibernating output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",359
+"mining and beneficiation product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",360
+"mining and beneficiation waste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",361
+"primary production product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",362
+"secondary production product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",363
+"primary refining waste",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",364
+"recycle scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",365
+"construction product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",366
+"transport product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",367
+"industrial machinery product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",368
+"electrical and electronics product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",369
+"agriculture product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",370
+"miscellaneous product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",371
+"electrical and electronics output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",372
+"agriculture output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",373
+"miscellaneous output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",374
+"blister Cu output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",375
+"semis and finished products output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",376
+"powder paste output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",377
+"Cu metal and alloys output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",378
+"refined Pb",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",379
+"refined metal",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",380
+"batteries product",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",381
+"sheet pipe product",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",382
+"cable sheathing product",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",383
+"alloys product",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",384
+"other product",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",385
+"APT output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",386
+"tungsten carbide powder output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",387
+"other engineering materials output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",388
+"cargo and wastes output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",389
+"grains and nuggets output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",390
+"conception output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",391
+"catalysts output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",392
+"aviation output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",393
+semis,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",394
+"finished products",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",395
+use,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",396
+"refined iron and iron alloys output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",397
+"recycle old scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",398
+"ore and concetrate output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",399
+"casting alloys output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",400
+"casting alloys product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",401
+"brass and bronze product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",402
+"dust product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",403
+"semis product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",404
+"chemicals product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",405
+"galvanizing product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",406
+"fabrication product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",407
+"downcycled carbon steel scrap output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",408
+"primary metals output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",409
+"hot rolling output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",410
+"Ni matte output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",411
+"refined Ni output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",412
+"downcycled other scrap markets output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",413
+"open hearth output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",414
+"bessemer output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",415
+"crucible output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",416
+"basic oxygen furnace output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",417
+"electric arc furnace output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",418
+"transportation product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",419
+"machinery and appliances product output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",420
+metal,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",421
+mixed,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",422
+oxide,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",423
+"Ti dioxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",424
+"mixed; Ti oxides",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",425
+"mixed; V2O5",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",426
+NULL,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",427
+"chromite; mag-chrome",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",428
+"mixed; Cr oxides; CCA; PbCrO4",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",429
+"Mn dioxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",430
+"Mixed; potassium permanganate; maneb; Mn oxides; Mn carbonates",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",431
+"Co carboxylates; Co oxides; Co fluoride; Co sulphide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",432
+"Co oxides; Co aluminate; CoCrO4; Co chloride",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",433
+"coalamin; mixed",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",434
+metal/mixed,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",435
+"Cu sulfate; Cu chelate; CuCl",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",436
+"mixed; CCA",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",437
+"Zn sulphate; ZnO; ZnS",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",438
+"Ga arsenide; Ga nitride; Ga antimonide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",439
+"Ga nitrate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",440
+"Ga nitrate; Ga maltolate; Ga-67",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",441
+"Ge dioxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",442
+"Si-Ge 255",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",443
+"mixed; CCA; As2O3",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",444
+As2O3,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",445
+"sodium selenite; sodium selenate; metal",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",446
+"mixed; dialkylselenium carbamates; Ca sulfoselenide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",447
+"Y oxide; YAG",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",448
+"Y oxide; Y-zirconia",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",449
+"mixed; Y oxide; Y-90",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",450
+"Zr silicate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",451
+"metal; Zr silicate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",452
+"mixed; metal; Zr oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",453
+"metal; ferroniobium",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",454
+"mixed; Nb carbides",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",455
+"mixed; MoS2; Na molybdate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",456
+"metal; oxides",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",457
+oxides,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",458
+"metal; compounds",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",459
+"metal; Rh oxides; RhCl3",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",460
+"metal; PdCl2",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",461
+"Ag nitrate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",462
+"metal powder",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",463
+"Cd sulphate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",464
+"mixed; Cd stearate; Cd laurate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",465
+ITO,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",466
+"mixed; Cu-In-Ga selenide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",467
+"mixed; organotins",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",468
+organotins,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",469
+TBT,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",470
+Sb2O3,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",471
+"Sb2O3; sodium antimonate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",472
+"mixed; Sb2S3; SbS5",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",473
+"Cd telluride",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",474
+"Cd sulfotelluride; Cd telluride; Ce tellurium molybdate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",475
+"organic tellurides; Na tellurite",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",476
+"mixed; La oxides; La chlorides",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",477
+"La hydride",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",478
+"La oxides",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",479
+"mischmetal; La oxides",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",480
+"La2O3; LaF3",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",481
+"mixed; mischmetal; LaF3",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",482
+"Ce oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",483
+"mixed; Ce oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",484
+"mischmetal; Ce oxides",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",485
+"mixed; mischmetal; Ce sulfide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",486
+"Pr oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",487
+"mixed; metal",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",488
+"mixed; mischmetal",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",489
+Nd2Fe14B,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",490
+"Nd oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",491
+"mischmetal; Sm oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",492
+"mixed; Sm iodide; SmCo5; Sm2Co",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",493
+"Eu oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",494
+"Gd Ga garnet",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",495
+"Ga oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",496
+"Gd compounds",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",497
+"Tb oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",498
+"Er oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",499
+"mixed; thulium-169; thulium-170",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",500
+Ytterbium-169,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",501
+"Lu oxyorthosilicate; Lu tantalate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",502
+"Hf oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",503
+"Hf carbide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",504
+"Ta carbide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",505
+"W carbide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",506
+"mixed; ammonium paratungstate; WO3; metal powder",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",507
+"mixed; ammonium paratungstate; WO3",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",508
+Pt-Re,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",509
+OsO4,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",510
+"metal; powder; contact gauzes PtO2",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",511
+"metal compounds",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",512
+amalgam,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",513
+"metal; Hg chloride",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",514
+"metal; Hg oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",515
+"mixed; Hg sulfide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",516
+"metal; thallium arsenic selenium",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",517
+"mixed; Th-201",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",518
+"mixed; sulphate Pb; phthalate Pb; PbCrO4",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",519
+"Pb tetraethyl",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",520
+"mixed; Bi salicylate",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",522
+"Cu-Th 255",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",523
+"Th oxide",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",524
+Th-232,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",525
+"UO2; U-235; U-238",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",526
+"use output",NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",527

@@ -1,0 +1,76 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+45,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+45,PEM,production of engineering materials,1;1,mining,1
+45,PEM,production of engineering materials,1;1,separation,2
+45,PEM,mining,1;1;1,concentrate,1
+45,PEM,mining,1;1;1,tailings,2
+45,PEM,separation,1;1;2,compounds,1
+45,PEM,separation,1;1;2,slag,2
+45,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+45,F&M,fabrication and manufacturing,2;1,fabrication,1
+45,F&M,fabrication and manufacturing,2;1,manufacturing,2
+45,F&M,fabrication,2;1;1,product,1
+45,F&M,fabrication,2;1;1,scrap,2
+45,F&M,fabrication,2;1;1,waste,3
+45,F&M,manufacturing,2;1;2,product,1
+45,F&M,manufacturing,2;1;2,scrap,2
+45,F&M,manufacturing,2;1;2,waste,3
+45,USE,aggregate use,3,use,1
+45,USE,use,3;1,plasma,1
+45,USE,use,3;1,defence applications,2
+45,USE,use,3;1,liquid crystal displays,3
+45,USE,use,3;1,lighting,4
+45,USE,use,3;1,fertilizers,5
+45,USE,use,3;1,magnetic resonance imaging,6
+45,USE,use,3;1,family appliances,7
+45,USE,use,3;1,polishing powders,8
+45,USE,use,3;1,wind turbines,9
+45,USE,use,3;1,automobiles,10
+45,USE,use,3;1,catalysts,11
+45,USE,use,3;1,NiMH batteries,12
+45,USE,use,3;1,glass additives,13
+45,USE,use,3;1,audio systems,14
+45,USE,use,3;1,auto converters,15
+45,USE,use,3;1,computers,16
+45,USE,use,3;1,metallurgy,17
+45,USE,aggregate use,3,use,1'
+45,USE,use,3;1',defence applications,1
+45,USE,use,3;1',batteries,2
+45,WMR,aggregate waste management,4,waste management,1
+45,WMR,waste management,4;1,scrap,1
+45,WMR,waste management,4;1,waste,2
+45,ENV,aggregate environment,5,environment,1
+45,ENV,environment,5;1,tailings,1
+45,ENV,environment,5;1,slag,2
+45,ENV,environment,5;1,sludge slimes,3
+45,ENV,environment,5;1,leachate,4
+45,ENV,environment,5;1,landfill,5
+45,ENV,environment,5;1,lithosphere economic resources,6
+45,ENV,environment,5;1,ashes particulates,7
+45,ENV,environment,5;1,hazardous waste,8
+45,ENV,environment,5;1,dissipation,9
+45,ENV,environment,5;1,earth orbit,10
+45,ENV,environment,5;1,moon,11
+45,ENV,environment,5;1,atmosphere,12
+45,ENV,environment,5;1,fossil fuel resources,13
+45,ENV,environment,5;1,agricultural biomass,14
+45,ENV,environment,5;1,terrestrial biomass,15
+45,ENV,environment,5;1,soil,16
+45,ENV,environment,5;1,continental regolith,17
+45,ENV,environment,5;1,freshwater,18
+45,ENV,environment,5;1,oceans,19
+45,ENV,environment,5;1,ocean biomass,20
+45,ENV,environment,5;1,mantle,21
+45,ENV,environment,5;1,core,22
+45,ENV,environment,5;1,oceanic regolith,23
+45,ENV,environment,5;1,consolidated crust,24
+45,ENV,environment,5;1,universe non earth planetary bodies,25
+45,ENV,dissipation,5;1;9,land,1
+45,ENV,dissipation,5;1;9,water bodies,2
+45,ENV,dissipation,5;1;9,air,3
+45,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+45,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+45,ENV,consolidated crust,5;1;24,upper continental crust,1
+45,ENV,consolidated crust,5;1;24,middle continental crust,2
+45,ENV,consolidated crust,5;1;24,lower continental crust,3
+45,ENV,consolidated crust,5;1;24,oceanic crust,4

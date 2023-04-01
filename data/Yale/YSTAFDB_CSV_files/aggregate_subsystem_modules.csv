@@ -1,0 +1,11 @@
+aggregate_subsystem_module,aggregate_subsystem_module_acronym,notes,contributor_id,date_created,date_updated,aggregate_subsystem_module_id
+NULL,NULL,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",1
+"production of engineering materials",PEM,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",2
+"fabrication and manufacturing",F&M,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",3
+use,USE,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",4
+"waste management and recycling",WMR,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",5
+environment,ENV,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",6
+"phosphate rock mining",PRM,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",7
+"industrial production",IPR,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",8
+"agricultural production",AGP,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",9
+"societal consumption",SCO,NULL,1,"2019-02-04 14:46:58","2019-02-04 14:46:58",10

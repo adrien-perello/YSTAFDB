@@ -1,0 +1,81 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+36,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+36,PEM,production of engineering materials,1;1,concentration,1
+36,PEM,production of engineering materials,1;1,smelting,2
+36,PEM,production of engineering materials,1;1,refining,3
+36,PEM,concentration,1;1;1,product,1
+36,PEM,concentration,1;1;1,waste,2
+36,PEM,smelting,1;1;2,product,1
+36,PEM,smelting,1;1;2,waste,2
+36,PEM,refining,1;1;3,product,1
+36,PEM,refining,1;1;3,waste,2
+36,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+36,F&M,fabrication and manufacturing,2;1,fabrication,1
+36,F&M,fabrication and manufacturing,2;1,manufacturing,2
+36,F&M,fabrication,2;1;1,product,1
+36,F&M,fabrication,2;1;1,waste,2
+36,F&M,manufacturing,2;1;2,product,1
+36,F&M,manufacturing,2;1;2,waste,2
+36,F&M,waste,2;1;2;2,industrial,1
+36,F&M,waste,2;1;2;2,medical biomedical and dental,2
+36,F&M,waste,2;1;2;2,electrical and electronic,3
+36,F&M,waste,2;1;2;2,jewelry,4
+36,F&M,waste,2;1;2;2,autocatalysts,5
+36,F&M,waste,2;1;2;2,other,6
+36,USE,aggregate use,3,use,1
+36,USE,use,3;1,non-dissipative,1
+36,USE,use,3;1,dissipative,2
+36,USE,dissipative,3;1;2,industrial,1
+36,USE,dissipative,3;1;2,medical biomedical and dental,2
+36,USE,dissipative,3;1;2,electrical and electronic,3
+36,USE,dissipative,3;1;2,jewelry,4
+36,USE,dissipative,3;1;2,autocatalysts,5
+36,USE,dissipative,3;1;2,other,6
+36,USE,aggregate use,3,use,1
+36,USE,use,3;1',autocatalysts,1
+36,USE,use,3;1',electrical,2
+36,USE,use,3;1',jewelry,3
+36,WMR,aggregate waste management,4,waste management,1
+36,WMR,waste management,4;1,scrap,1
+36,WMR,waste management,4;1,waste,2
+36,WMR,waste,4;1;2,industrial,1
+36,WMR,waste,4;1;2,medical biomedical and dental,2
+36,WMR,waste,4;1;2,electrical and electronic,3
+36,WMR,waste,4;1;2,jewelry,4
+36,WMR,waste,4;1;2,autocatalysts,5
+36,WMR,waste,4;1;2,other,6
+36,ENV,aggregate environment,5,environment,1
+36,ENV,environment,5;1,tailings,1
+36,ENV,environment,5;1,slag,2
+36,ENV,environment,5;1,sludge slimes,3
+36,ENV,environment,5;1,leachate,4
+36,ENV,environment,5;1,landfill,5
+36,ENV,environment,5;1,lithosphere economic resources,6
+36,ENV,environment,5;1,ashes particulates,7
+36,ENV,environment,5;1,hazardous waste,8
+36,ENV,environment,5;1,dissipation,9
+36,ENV,environment,5;1,earth orbit,10
+36,ENV,environment,5;1,moon,11
+36,ENV,environment,5;1,atmosphere,12
+36,ENV,environment,5;1,fossil fuel resources,13
+36,ENV,environment,5;1,agricultural biomass,14
+36,ENV,environment,5;1,terrestrial biomass,15
+36,ENV,environment,5;1,soil,16
+36,ENV,environment,5;1,continental regolith,17
+36,ENV,environment,5;1,freshwater,18
+36,ENV,environment,5;1,oceans,19
+36,ENV,environment,5;1,ocean biomass,20
+36,ENV,environment,5;1,mantle,21
+36,ENV,environment,5;1,core,22
+36,ENV,environment,5;1,oceanic regolith,23
+36,ENV,environment,5;1,consolidated crust,24
+36,ENV,environment,5;1,universe non earth planetary bodies,25
+36,ENV,dissipation,5;1;9,land,1
+36,ENV,dissipation,5;1;9,water bodies,2
+36,ENV,dissipation,5;1;9,air,3
+36,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+36,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+36,ENV,consolidated crust,5;1;24,upper continental crust,1
+36,ENV,consolidated crust,5;1;24,middle continental crust,2
+36,ENV,consolidated crust,5;1;24,lower continental crust,3
+36,ENV,consolidated crust,5;1;24,oceanic crust,4

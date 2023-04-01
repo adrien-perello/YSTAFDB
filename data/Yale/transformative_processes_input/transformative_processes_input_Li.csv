@@ -1,0 +1,43 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+27,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+27,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+27,USE,aggregate use,3,use,1
+27,USE,use,3;1,batteries,1
+27,USE,use,3;1,glasses,2
+27,USE,use,3;1,greases,3
+27,WMR,aggregate waste management,4,waste management,1
+27,ENV,aggregate environment,5,environment,1
+27,ENV,environment,5;1,tailings,1
+27,ENV,environment,5;1,slag,2
+27,ENV,environment,5;1,sludge slimes,3
+27,ENV,environment,5;1,leachate,4
+27,ENV,environment,5;1,landfill,5
+27,ENV,environment,5;1,lithosphere economic resources,6
+27,ENV,environment,5;1,ashes particulates,7
+27,ENV,environment,5;1,hazardous waste,8
+27,ENV,environment,5;1,dissipation,9
+27,ENV,environment,5;1,earth orbit,10
+27,ENV,environment,5;1,moon,11
+27,ENV,environment,5;1,atmosphere,12
+27,ENV,environment,5;1,fossil fuel resources,13
+27,ENV,environment,5;1,agricultural biomass,14
+27,ENV,environment,5;1,terrestrial biomass,15
+27,ENV,environment,5;1,soil,16
+27,ENV,environment,5;1,continental regolith,17
+27,ENV,environment,5;1,freshwater,18
+27,ENV,environment,5;1,oceans,19
+27,ENV,environment,5;1,ocean biomass,20
+27,ENV,environment,5;1,mantle,21
+27,ENV,environment,5;1,core,22
+27,ENV,environment,5;1,oceanic regolith,23
+27,ENV,environment,5;1,consolidated crust,24
+27,ENV,environment,5;1,universe non earth planetary bodies,25
+27,ENV,dissipation,5;1;9,land,1
+27,ENV,dissipation,5;1;9,water bodies,2
+27,ENV,dissipation,5;1;9,air,3
+27,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+27,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+27,ENV,consolidated crust,5;1;24,upper continental crust,1
+27,ENV,consolidated crust,5;1;24,middle continental crust,2
+27,ENV,consolidated crust,5;1;24,lower continental crust,3
+27,ENV,consolidated crust,5;1;24,oceanic crust,4

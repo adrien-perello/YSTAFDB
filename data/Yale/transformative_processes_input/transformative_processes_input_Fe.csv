@@ -1,0 +1,340 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+17,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+17,PEM,production of engineering materials,1;1,production,1
+17,PEM,production of engineering materials,1;1,engineering materials,2
+17,PEM,production,1;1;1,mining and beneficiation,1
+17,PEM,production,1;1;1,blast furnace,2
+17,PEM,engineering materials,1;1;2,steel mills,1
+17,PEM,engineering materials,1;1;2,foundry,2
+17,PEM,mining and beneficiation,1;1;1;1,iron ore,1
+17,PEM,mining and beneficiation,1;1;1;1,tailings,2
+17,PEM,blast furnace,1;1;1;2,pig iron,1
+17,PEM,blast furnace,1;1;1;2,slag,2
+17,PEM,steel mills,1;1;2;1,raw steel,1
+17,PEM,steel mills,1;1;2;1,slag,2
+17,PEM,engineering materials,1;1;2,steel mills,1'
+17,PEM,engineering materials,1;1;2,foundry,2'
+17,PEM,steel mills,1;1;2;1',open hearth,1
+17,PEM,steel mills,1;1;2;1',bessemer,2
+17,PEM,steel mills,1;1;2;1',crucible,3
+17,PEM,steel mills,1;1;2;1',basic oxygen furnace,4
+17,PEM,steel mills,1;1;2;1',electric arc furnace,5
+17,PEM,foundry,1;1;2;2,castings,1
+17,PEM,foundry,1;1;2;2,home scrap,2
+17,PEM,aggregate production of engineering materials,1,production of engineering materials,1'
+17,PEM,production of engineering materials,1;1',ore and concentrate,1
+17,PEM,production of engineering materials,1;1',refined iron and iron alloys,2
+17,PEM,production of engineering materials,1;1',tailings,3
+17,PEM,production of engineering materials,1;1',slag,4
+17,PEM,production of engineering materials,1;1',home scrap,5
+17,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+17,F&M,fabrication and manufacturing,2;1,fabrication,1
+17,F&M,fabrication and manufacturing,2;1,manufacturing,2
+17,F&M,fabrication,2;1;1,rolling mills,1
+17,F&M,manufacturing,2;1;2,product,1
+17,F&M,manufacturing,2;1;2,scrap and waste,2
+17,F&M,rolling mills,2;1;1;1,finished steel,1
+17,F&M,rolling mills,2;1;1;1,home scrap,2
+17,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1'
+17,F&M,fabrication and manufacturing,2;1',semis and finished products,1
+17,F&M,fabrication and manufacturing,2;1',scrap,2
+17,F&M,semis and finished products,2;1';1,semis,1
+17,F&M,semis and finished products,2;1';1,finished products,2
+17,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1''
+17,F&M,fabrication and manufacturing,2;1'',construction,1
+17,F&M,fabrication and manufacturing,2;1'',transportation,2
+17,F&M,fabrication and manufacturing,2;1'',machinery and appliances,3
+17,F&M,fabrication and manufacturing,2;1'',others,4
+17,F&M,construction,2;1'';1,product,1
+17,F&M,construction,2;1'';1,waste,2
+17,F&M,transportation,2;1'';2,product,1
+17,F&M,transportation,2;1'';2,waste,2
+17,F&M,machinery and appliances,2;1'';3,product,1
+17,F&M,machinery and appliances,2;1'';3,waste,2
+17,F&M,others,2;1'';4,product,1
+17,F&M,others,2;1'';4,waste,2
+17,USE,aggregate use,3,use,1
+17,USE,use,3;1,transportation,1
+17,USE,use,3;1,buildings,2
+17,USE,use,3;1,equipment,3
+17,USE,use,3;1,infrastructure,4
+17,USE,use,3;1,other,5
+17,USE,transportation,3;1;1,automobiles,1
+17,USE,transportation,3;1;1,bicycles,2
+17,USE,transportation,3;1;1,air,3
+17,USE,transportation,3;1;1,marine,4
+17,USE,transportation,3;1;1,rail,5
+17,USE,buildings,3;1;2,residential,1
+17,USE,buildings,3;1;2,commercial,2
+17,USE,buildings,3;1;2,industrial,3
+17,USE,buildings,3;1;2,institutional,4
+17,USE,equipment,3;1;3,household electronics and appliances,1
+17,USE,equipment,3;1;3,commercial electronics and appliances,2
+17,USE,equipment,3;1;3,industrial machinery and appliances,3
+17,USE,infrastructure,3;1;4,water distribution,1
+17,USE,infrastructure,3;1;4,gas distribution,2
+17,USE,infrastructure,3;1;4,oil storage and distribution,3
+17,USE,infrastructure,3;1;4,storm sewers,4
+17,USE,infrastructure,3;1;4,streetscape,5
+17,USE,infrastructure,3;1;4,rail,6
+17,USE,infrastructure,3;1;4,roads and bridges,7
+17,USE,infrastructure,3;1;4,electricity transmission and distribution,8
+17,USE,infrastructure,3;1;4,telecommunications,9
+17,USE,other,3;1;5,scrap yards,1
+17,USE,automobiles,3;1;1;1,cars,1
+17,USE,automobiles,3;1;1;1,trucks,2
+17,USE,automobiles,3;1;1;1,trailers,3
+17,USE,automobiles,3;1;1;1,buses,4
+17,USE,automobiles,3;1;1;1,motorcycles and similar,5
+17,USE,automobiles,3;1;1;1,non-resident,6
+17,USE,air,3;1;1;3,resident,1
+17,USE,air,3;1;1;3,non-resident,2
+17,USE,marine,3;1;1;4,resident,1
+17,USE,marine,3;1;1;4,non-resident,2
+17,USE,rail,3;1;1;5,resident,1
+17,USE,rail,3;1;1;5,non-resident,2
+17,USE,residential,3;1;2;1,structures,1
+17,USE,residential,3;1;2;1,hvac,2
+17,USE,residential,3;1;2;1,other,3
+17,USE,commercial,3;1;2;2,structures,1
+17,USE,commercial,3;1;2;2,hvac,2
+17,USE,commercial,3;1;2;2,other,3
+17,USE,industrial,3;1;2;3,structures,1
+17,USE,industrial,3;1;2;3,hvac,2
+17,USE,household electronics and appliances,3;1;3;1,white goods,1
+17,USE,household electronics and appliances,3;1;3;1,electrical and electronic,2
+17,USE,household electronics and appliances,3;1;3;1,other,3
+17,USE,commercial electronics and appliances,3;1;3;2,white goods,1
+17,USE,commercial electronics and appliances,3;1;3;2,electrical and electronic,2
+17,USE,commercial electronics and appliances,3;1;3;2,other,3
+17,USE,industrial machinery and appliances,3;1;3;3,agriculture and forestry,1
+17,USE,industrial machinery and appliances,3;1;3;3,transportation and warehousing,2
+17,USE,industrial machinery and appliances,3;1;3;3,manufacturing equipment,3
+17,USE,industrial machinery and appliances,3;1;3;3,construction,4
+17,USE,water distribution,3;1;4;1,supply and distribution mains,1
+17,USE,water distribution,3;1;4;1,hydrants,2
+17,USE,water distribution,3;1;4;1,service connections,3
+17,USE,water distribution,3;1;4;1,pumps,4
+17,USE,water distribution,3;1;4;1,private wells,5
+17,USE,gas distribution,3;1;4;2,mains,1
+17,USE,gas distribution,3;1;4;2,service connections,2
+17,USE,gas distribution,3;1;4;2,meters,3
+17,USE,oil storage and distribution,3;1;4;3,tanks,1
+17,USE,oil storage and distribution,3;1;4;3,pipeline,2
+17,USE,storm sewers,3;1;4;4,mains,1
+17,USE,storm sewers,3;1;4;4,manhole covers,2
+17,USE,storm sewers,3;1;4;4,grates,3
+17,USE,streetscape,3;1;4;5,signs,1
+17,USE,streetscape,3;1;4;5,traffic lights,2
+17,USE,streetscape,3;1;4;5,street lights,3
+17,USE,streetscape,3;1;4;5,chain link fence,4
+17,USE,streetscape,3;1;4;5,guard rail,5
+17,USE,streetscape,3;1;4;5,billboards,6
+17,USE,rail,3;1;4;6,track,1
+17,USE,rail,3;1;4;6,overhead contact system,2
+17,USE,roads and bridges,3;1;4;7,reinforced concrete roads,1
+17,USE,roads and bridges,3;1;4;7,bridges,2
+17,USE,electricity transmission and distribution,3;1;4;8,cable,1
+17,USE,electricity transmission and distribution,3;1;4;8,towers,2
+17,USE,electricity transmission and distribution,3;1;4;8,transformers,3
+17,USE,telecommunications,3;1;4;9,cable,1
+17,USE,telecommunications,3;1;4;9,manholes,2
+17,USE,telecommunications,3;1;4;9,towers,3
+17,USE,trucks,3;1;1;1;2,light trucks,1
+17,USE,trucks,3;1;1;1;2,specialty and large trucks,2
+17,USE,structures,3;1;2;1;1,single family,1
+17,USE,structures,3;1;2;1;1,multi family,2
+17,USE,structures,3;1;2;1;1,apartments,3
+17,USE,structures,3;1;2;1;1,trailers,4
+17,USE,hvac,3;1;2;1;2,heat pumps,1
+17,USE,hvac,3;1;2;1;2,gas-fired furnaces,2
+17,USE,hvac,3;1;2;1;2,oil-fired boilers,3
+17,USE,hvac,3;1;2;1;2,oil tanks,4
+17,USE,hvac,3;1;2;1;2,built-in electric heaters,5
+17,USE,hvac,3;1;2;1;2,wood stoves,6
+17,USE,hvac,3;1;2;1;2,central air conditioning,7
+17,USE,hvac,3;1;2;1;2,radiators,8
+17,USE,hvac,3;1;2;1;2,chimney liners,9
+17,USE,hvac,3;1;2;1;2,water heaters,10
+17,USE,other,3;1;2;1;3,kitchen sinks,1
+17,USE,other,3;1;2;1;3,garbage disposals,2
+17,USE,other,3;1;2;1;3,septic tanks,3
+17,USE,structures,3;1;2;2;1,masonry-brick,1
+17,USE,structures,3;1;2;2;1,concrete,2
+17,USE,structures,3;1;2;2;1,steel,3
+17,USE,hvac,3;1;2;2;2,ventilation and sprinklers,1
+17,USE,hvac,3;1;2;2;2,heat pumps,2
+17,USE,hvac,3;1;2;2;2,gas-fired furnaces,3
+17,USE,hvac,3;1;2;2;2,oil-fired boilers,4
+17,USE,hvac,3;1;2;2;2,space heaters,5
+17,USE,hvac,3;1;2;2;2,packaged heating units,6
+17,USE,hvac,3;1;2;2;2,central air conditioning,7
+17,USE,hvac,3;1;2;2;2,central chillers,8
+17,USE,hvac,3;1;2;2;2,packaged air conditioning,9
+17,USE,hvac,3;1;2;2;2,swamp coolers,10
+17,USE,hvac,3;1;2;2;2,walk-in freezers,11
+17,USE,hvac,3;1;2;2;2,built-in refrigerated cases,12
+17,USE,hvac,3;1;2;2;2,water heaters,13
+17,USE,other,3;1;2;2;3,commercial sinks,1
+17,USE,other,3;1;2;2;3,elevators,2
+17,USE,structures,3;1;2;3;1,manufacturing,1
+17,USE,structures,3;1;2;3;1,power plants,2
+17,USE,hvac,3;1;2;3;2,ventilation and sprinklers,1
+17,USE,hvac,3;1;2;3;2,heating,2
+17,USE,hvac,3;1;2;3;2,cooling,3
+17,USE,white goods,3;1;3;1;1,refrigerators and freezers,1
+17,USE,white goods,3;1;3;1;1,washing machines,2
+17,USE,white goods,3;1;3;1;1,clothes dryers,3
+17,USE,white goods,3;1;3;1;1,dishwashers,4
+17,USE,white goods,3;1;3;1;1,stoves and domestic cooking ranges,5
+17,USE,white goods,3;1;3;1;1,microwave ovens,6
+17,USE,white goods,3;1;3;1;1,portable air conditioners,7
+17,USE,electrical and electronic,3;1;3;1;2,computers,1
+17,USE,electrical and electronic,3;1;3;1;2,televisions,2
+17,USE,electrical and electronic,3;1;3;1;2,telephones,3
+17,USE,electrical and electronic,3;1;3;1;2,stereos and radios,4
+17,USE,electrical and electronic,3;1;3;1;2,fax machines,5
+17,USE,electrical and electronic,3;1;3;1;2,copiers,6
+17,USE,electrical and electronic,3;1;3;1;2,sewing machines,7
+17,USE,electrical and electronic,3;1;3;1;2,irons,8
+17,USE,other,3;1;3;1;3,tableware,1
+17,USE,other,3;1;3;1;3,steel and tin cans,2
+17,USE,other,3;1;3;1;3,pots and pans,3
+17,USE,other,3;1;3;1;3,charcoal and gas grills,4
+17,USE,other,3;1;3;1;3,beds,5
+17,USE,other,3;1;3;1;3,filing cabinets,6
+17,USE,other,3;1;3;1;3,tools,7
+17,USE,other,3;1;3;1;3,lawn mowers,8
+17,USE,other,3;1;3;1;3,snow blowers,9
+17,USE,other,3;1;3;1;3,guns,10
+17,USE,white goods,3;1;3;2;1,refrigerators and freezers,1
+17,USE,white goods,3;1;3;2;1,washing machines,2
+17,USE,white goods,3;1;3;2;1,clothes dryers,3
+17,USE,white goods,3;1;3;2;1,dishwashers,4
+17,USE,white goods,3;1;3;2;1,stoves and ovens and steamers,5
+17,USE,white goods,3;1;3;2;1,microwave ovens,6
+17,USE,white goods,3;1;3;2;1,portable air conditioners,7
+17,USE,white goods,3;1;3;2;1,fryers,8
+17,USE,white goods,3;1;3;2;1,ice machines,9
+17,USE,electrical and electronic,3;1;3;2;2,computers,1
+17,USE,electrical and electronic,3;1;3;2;2,televisions,2
+17,USE,electrical and electronic,3;1;3;2;2,telephones,3
+17,USE,electrical and electronic,3;1;3;2;2,stereos and radios,4
+17,USE,electrical and electronic,3;1;3;2;2,copiers,5
+17,USE,other,3;1;3;2;3,beds,1
+17,USE,other,3;1;3;2;3,filing cabinets,2
+17,USE,other,3;1;3;2;3,shelving,3
+17,USE,other,3;1;3;2;3,desks and tables,4
+17,USE,other,3;1;3;2;3,chairs,5
+17,USE,other,3;1;3;2;3,restaurant cooking equipment,6
+17,USE,other,3;1;3;2;3,tableware,7
+17,USE,other,3;1;3;2;3,automotive tools,8
+17,USE,other,3;1;3;2;3,shopping carts,9
+17,USE,other,3;1;3;2;3,kegs,10
+17,USE,other,3;1;3;2;3,laboratory equipment and hvac,11
+17,USE,other,3;1;3;2;3,dumpsters,12
+17,USE,transportation and warehousing,3;1;3;3;2,forklifts,1
+17,USE,transportation and warehousing,3;1;3;3;2,shelving,2
+17,USE,manufacturing equipment,3;1;3;3;3,small,1
+17,USE,manufacturing equipment,3;1;3;3;3,large,2
+17,USE,manufacturing equipment,3;1;3;3;3,process boilers,3
+17,USE,manufacturing equipment,3;1;3;3;3,shelving,4
+17,USE,manufacturing equipment,3;1;3;3;3,steel drums,5
+17,USE,construction,3;1;3;3;4,vehicles,1
+17,USE,construction,3;1;3;3;4,cranes,2
+17,USE,construction,3;1;3;3;4,tools,3
+17,USE,aggregate use,3,use,1'
+17,USE,use,3;1',residential,1
+17,USE,use,3;1',commercial,2
+17,USE,use,3;1',industrial,3
+17,USE,use,3;1',institutional,4
+17,USE,use,3;1',equipment and fittings,5
+17,USE,equipment and fittings,3;1';5,hvac,1
+17,USE,hvac,3;1';5;1,heating system,1
+17,USE,hvac,3;1';5;1,ventilation system,2
+17,USE,hvac,3;1';5;1,cooling system,3
+17,USE,aggregate use,3,use,1''
+17,USE,use,3;1'',non-dissipative,1
+17,USE,use,3;1'',dissipative,2
+17,USE,non-dissipative,3;1'';1,obsolete products,1
+17,USE,non-dissipative,3;1'';1,other,2
+17,USE,aggregate use,3,use,1'''
+17,USE,use,3;1''',construction,1
+17,USE,use,3;1''',transport,2
+17,USE,use,3;1''',machinery and appliances,3
+17,USE,use,3;1''',other,4
+17,USE,construction,3;1''';1,non-dissipative,1
+17,USE,transport,3;1''';2,non-dissipative,2
+17,USE,machinery and appliances,3;1''';3,non-dissipative,3
+17,USE,other,3;1''';4,non-dissipative,4
+17,USE,use,3;1,transportation,1'
+17,USE,use,3;1,buildings,2'
+17,USE,use,3;1,equipment,3'
+17,USE,use,3;1,infrastructure,4'
+17,USE,use,3;1,other,5'
+17,USE,buildings,3;1;2',equipment and fittings,1
+17,USE,transportation,3;1;1,automobiles,1'
+17,USE,transportation,3;1;1,bicycles,2'
+17,USE,transportation,3;1;1,air,3'
+17,USE,transportation,3;1;1,marine,4'
+17,USE,transportation,3;1;1,rail,5'
+17,USE,marine,3;1;1;4',ships,1
+17,USE,marine,3;1;1;4',boats and barges,2
+17,USE,buildings,3;1;2,residential,1'
+17,USE,buildings,3;1;2,commercial,2'
+17,USE,buildings,3;1;2,industrial,3'
+17,USE,buildings,3;1;2,institutional,4'
+17,USE,residential,3;1;2;1',single family,1
+17,USE,residential,3;1;2;1',multi family,2
+17,USE,residential,3;1;2;1',apartments,3
+17,USE,residential,3;1;2;1',trailers,4
+17,USE,household electronics and appliances,3;1;3;1,white goods,1'
+17,USE,household electronics and appliances,3;1;3;1,electrical and electronic,2'
+17,USE,household electronics and appliances,3;1;3;1,other,3'
+17,USE,electrical and electronic,3;1;3;1;2',electrical,1
+17,USE,electrical and electronic,3;1;3;1;2',electronic,2
+17,WMR,aggregate waste management,4,waste management,1
+17,WMR,waste management,4;1,recycled,1
+17,WMR,waste management,4;1,not recycled,2
+17,WMR,recycled,4;1;1,recycled old scrap,1
+17,WMR,recycled,4;1;1,recycled new scrap,2
+17,WMR,aggregate waste management,4,waste management,1'
+17,WMR,waste management,4;1',scrap,1
+17,WMR,waste management,4;1',waste,2
+17,WMR,scrap,4;1';1,old scrap,1
+17,WMR,scrap,4;1';1,new scrap,2
+17,ENV,aggregate environment,5,environment,1
+17,ENV,environment,5;1,tailings,1
+17,ENV,environment,5;1,slag,2
+17,ENV,environment,5;1,sludge slimes,3
+17,ENV,environment,5;1,leachate,4
+17,ENV,environment,5;1,landfill,5
+17,ENV,environment,5;1,lithosphere economic resources,6
+17,ENV,environment,5;1,ashes particulates,7
+17,ENV,environment,5;1,hazardous waste,8
+17,ENV,environment,5;1,dissipation,9
+17,ENV,environment,5;1,earth orbit,10
+17,ENV,environment,5;1,moon,11
+17,ENV,environment,5;1,atmosphere,12
+17,ENV,environment,5;1,fossil fuel resources,13
+17,ENV,environment,5;1,agricultural biomass,14
+17,ENV,environment,5;1,terrestrial biomass,15
+17,ENV,environment,5;1,soil,16
+17,ENV,environment,5;1,continental regolith,17
+17,ENV,environment,5;1,freshwater,18
+17,ENV,environment,5;1,oceans,19
+17,ENV,environment,5;1,ocean biomass,20
+17,ENV,environment,5;1,mantle,21
+17,ENV,environment,5;1,core,22
+17,ENV,environment,5;1,oceanic regolith,23
+17,ENV,environment,5;1,consolidated crust,24
+17,ENV,environment,5;1,universe non earth planetary bodies,25
+17,ENV,dissipation,5;1;9,land,1
+17,ENV,dissipation,5;1;9,water bodies,2
+17,ENV,dissipation,5;1;9,air,3
+17,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+17,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+17,ENV,consolidated crust,5;1;24,upper continental crust,1
+17,ENV,consolidated crust,5;1;24,middle continental crust,2
+17,ENV,consolidated crust,5;1;24,lower continental crust,3
+17,ENV,consolidated crust,5;1;24,oceanic crust,4

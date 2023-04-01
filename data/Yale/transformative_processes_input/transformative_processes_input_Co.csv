@@ -1,0 +1,73 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+11,PEM,aggregate production engineering materials,1,production of engineering materials,1
+11,PEM,production of engineering materials,1;1,production,1
+11,PEM,production of engineering materials,1;1,engineering materials,2
+11,PEM,production,1;1;1,mining beneficiation,1
+11,PEM,production,1;1;1,refining,2
+11,PEM,engineering materials,1;1;2,SmCo magnet alloy,1
+11,PEM,engineering materials,1;1;2,superalloy,2
+11,PEM,mining beneficiation,1;1;1;1,product,1
+11,PEM,mining beneficiation,1;1;1;1,tailings,2
+11,PEM,refining,1;1;1;2,product,1
+11,PEM,refining,1;1;1;2,waste,2
+11,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+11,F&M,fabrication and manufacturing,2;1,fabrication,1
+11,F&M,fabrication and manufacturing,2;1,manufacturing,2
+11,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1'
+11,F&M,fabrication and manufacturing,2;1',product,1
+11,F&M,fabrication and manufacturing,2;1',scrap,2
+11,F&M,fabrication and manufacturing,2;1',waste,3
+11,F&M,product,2;1';1,batteries,1
+11,USE,aggregate use,3,use,1
+11,USE,use,3;1,batteries,1
+11,USE,aggregate use,3,use,1'
+11,USE,use,3;1',non-dissipative,1
+11,USE,use,3;1',dissipative,2
+11,USE,end of life,3;1';1,batteries,1
+11,USE,aggregate use,3,use,1''
+11,USE,use,3;1'',superalloys,1
+11,USE,use,3;1'',chemicals,2
+11,USE,use,3;1'',alloys,3
+11,WMR,aggregate waste management,4,waste management,1
+11,WMR,waste management,4;1,waste,1
+11,WMR,waste management,4;1,scrap,2
+11,WMR,waste,4;1;1,batteries,1
+11,WMR,scrap,4;1;2,recycle,1
+11,WMR,scrap,4;1;2,downcycle,2
+11,WMR,recycle,4;1;2;1,batteries,1
+11,ENV,aggregate environment,5,environment,1
+11,ENV,environment,5;1,tailings,1
+11,ENV,environment,5;1,slag,2
+11,ENV,environment,5;1,sludge slimes,3
+11,ENV,environment,5;1,leachate,4
+11,ENV,environment,5;1,landfill,5
+11,ENV,environment,5;1,lithosphere economic resources,6
+11,ENV,environment,5;1,ashes particulates,7
+11,ENV,environment,5;1,hazardous waste,8
+11,ENV,environment,5;1,dissipation,9
+11,ENV,environment,5;1,earth orbit,10
+11,ENV,environment,5;1,moon,11
+11,ENV,environment,5;1,atmosphere,12
+11,ENV,environment,5;1,fossil fuel resources,13
+11,ENV,environment,5;1,agricultural biomass,14
+11,ENV,environment,5;1,terrestrial biomass,15
+11,ENV,environment,5;1,soil,16
+11,ENV,environment,5;1,continental regolith,17
+11,ENV,environment,5;1,freshwater,18
+11,ENV,environment,5;1,oceans,19
+11,ENV,environment,5;1,ocean biomass,20
+11,ENV,environment,5;1,mantle,21
+11,ENV,environment,5;1,core,22
+11,ENV,environment,5;1,oceanic regolith,23
+11,ENV,environment,5;1,consolidated crust,24
+11,ENV,environment,5;1,universe non earth planetary bodies,25
+11,ENV,landfill,5;1;5,batteries,1
+11,ENV,dissipation,5;1;9,landfill,1
+11,ENV,dissipation,5;1;9,water bodies,2
+11,ENV,dissipation,5;1;9,air,3
+11,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+11,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+11,ENV,consolidated crust,5;1;24,upper continental crust,1
+11,ENV,consolidated crust,5;1;24,middle continental crust,2
+11,ENV,consolidated crust,5;1;24,lower continental crust,3
+11,ENV,consolidated crust,5;1;24,oceanic crust,4

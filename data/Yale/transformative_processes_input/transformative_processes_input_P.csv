@@ -1,0 +1,120 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+104,PRM,aggregate phosphate rock mining,1,phosphate rock mining,1
+104,PRM,phosphate rock mining,1;1,mining,1
+104,PRM,phosphate rock mining,1;1,beneficiation,2
+104,PRM,phosphate rock mining,1;1,refining,3
+104,PRM,mining,1;1;1,phosphate rock,1
+104,PRM,mining,1;1;1,on-site sand waste,2
+104,PRM,mining,1;1;1,mining phosphate mine slimes,3
+104,PRM,beneficiation,1;1;2,maketable phosphate rock concentrate,1
+104,PRM,beneficiation,1;1;2,beneficiation phosphate mine slimes,2
+104,PRM,beneficiation,1;1;2,phosphoric tailings,3
+104,PRM,refining,1;1;3,elemental phosphorus,1
+104,PRM,refining,1;1;3,phosphoric acid,2
+104,PRM,refining,1;1;3,phosphogypsum,3
+104,PRM,refining,1;1;3,phosphorus slag,4
+104,PRM,refining,1;1;3,ferrophosphorus,5
+104,PRM,aggregate phosphate rock mining,1,phosphate rock mining,1'
+104,PRM,phosphate rock mining,1;1',product,1
+104,PRM,phosphate rock mining,1;1',waste,2
+104,PRM,phosphate rock mining,1;1,mining,1'
+104,PRM,phosphate rock mining,1;1,beneficiation,2'
+104,PRM,phosphate rock mining,1;1,refining,3'
+104,PRM,refining,1;1;3',product,1
+104,PRM,refining,1;1;3',waste,2
+104,IPR,aggregate industrial production,2,industrial production,1
+104,IPR,industrial production,2;1,thermal processing,1
+104,IPR,industrial production,2;1,phosphoric acid processing,2
+104,IPR,industrial production,2;1,other P products,3
+104,IPR,industrial production,2;1,chemical fertilizer,4
+104,IPR,thermal processing,2;1;1,other P compounds,1
+104,IPR,thermal processing,2;1;1,purified phosphoric acid,2
+104,IPR,other P products,2;1;3,detergents,1
+104,IPR,other P products,2;1;3,industrial uses,2
+104,IPR,other P products,2;1;3,other uses,3
+104,IPR,other P products,2;1;3,food and feed additives,4
+104,IPR,food and feed additives,2;1;3;4,food additives,1
+104,IPR,food and feed additives,2;1;3;4,feed additives,2
+104,IPR,aggregate industrial production,2,industrial production,1'
+104,IPR,industrial production,2;1',product,1
+104,IPR,industrial production,2;1',waste,2
+104,AGP,aggregate agricultural production,3,agricultural production,1
+104,AGP,agricultural production,3;1,agricultural soil,1
+104,AGP,agricultural production,3;1,harvesting crops,2
+104,AGP,agricultural production,3;1,food processing,3
+104,AGP,agricultural production,3;1,feed processing,4
+104,AGP,agricultural production,3;1,grass cutting,5
+104,AGP,agricultural production,3;1,animal processing,6
+104,AGP,agricultural production,3;1,organic fertilizer processing,7
+104,AGP,agricultural soil,3;1;1,crops,1
+104,AGP,agricultural soil,3;1;1,grass,2
+104,AGP,agricultural soil,3;1;1,crop residues,3
+104,AGP,agricultural soil,3;1;1,wasted soil,4
+104,AGP,harvesting crops,3;1;2,food crops product,1
+104,AGP,harvesting crops,3;1;2,food crops waste,2
+104,AGP,food processing,3;1;3,food product,1
+104,AGP,food processing,3;1;3,food waste,2
+104,AGP,animal processing,3;1;6,animal food,1
+104,AGP,animal processing,3;1;6,animal waste,2
+104,AGP,wasted soil,3;1;1;4,runoff,1
+104,AGP,wasted soil,3;1;1;4,leaching,2
+104,AGP,aggregate agricultural production,3,agricultural production,1'
+104,AGP,agricultural production,3;1',product,1
+104,AGP,agricultural production,3;1',waste,2
+104,SCO,aggregate societal consumption,4,societal consumption,1
+104,SCO,societal consumption,4;1,human consumption,1
+104,SCO,human consumption,4;1;1,excreta,1
+104,SCO,human consumption,4;1;1,other human waste,2
+104,SCO,aggregate societal consumption,4,societal consumption,1'
+104,SCO,societal consumption,4;1',product,1
+104,SCO,societal consumption,4;1',waste,2
+104,ENV,aggregate environment,5,environment,1
+104,ENV,environment,5;1,tailings,1
+104,ENV,environment,5;1,slag,2
+104,ENV,environment,5;1,sludge slimes,3
+104,ENV,environment,5;1,leachate,4
+104,ENV,environment,5;1,landfill,5
+104,ENV,environment,5;1,lithosphere economic resources,6
+104,ENV,environment,5;1,ashes particulates,7
+104,ENV,environment,5;1,hazardous waste,8
+104,ENV,environment,5;1,dissipation,9
+104,ENV,environment,5;1,earth orbit,10
+104,ENV,environment,5;1,moon,11
+104,ENV,environment,5;1,atmosphere,12
+104,ENV,environment,5;1,fossil fuel resources,13
+104,ENV,environment,5;1,agricultural biomass,14
+104,ENV,environment,5;1,terrestrial biomass,15
+104,ENV,environment,5;1,soil,16
+104,ENV,environment,5;1,continental regolith,17
+104,ENV,environment,5;1,freshwater,18
+104,ENV,environment,5;1,oceans,19
+104,ENV,environment,5;1,ocean biomass,20
+104,ENV,environment,5;1,mantle,21
+104,ENV,environment,5;1,core,22
+104,ENV,environment,5;1,oceanic regolith,23
+104,ENV,environment,5;1,consolidated crust,24
+104,ENV,environment,5;1,universe non earth planetary bodies,25
+104,ENV,environment,5;1,other,26
+104,ENV,slag,5;1;2,phosphorus slag,1
+104,ENV,sludge slimes,5;1;3,mining phosphate mine slimes,1
+104,ENV,sludge slimes,5;1;3,beneficiation phosphate mine slimes,2
+104,ENV,dissipation,5;1;9,landfill,1
+104,ENV,dissipation,5;1;9,water bodies,2
+104,ENV,dissipation,5;1;9,air,3
+104,ENV,agricultural biomass,5;1;14,crop residues,1
+104,ENV,agricultural biomass,5;1;14,food crops waste,2
+104,ENV,agricultural biomass,5;1;14,animal waste,3
+104,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+104,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+104,ENV,consolidated crust,5;1;24,upper continental crust,1
+104,ENV,consolidated crust,5;1;24,middle continental crust,2
+104,ENV,consolidated crust,5;1;24,lower continental crust,3
+104,ENV,consolidated crust,5;1;24,oceanic crust,4
+104,ENV,other,5;1;26,on-site sand waste,1
+104,ENV,other,5;1;26,phosphogypsum,2
+104,ENV,other,5;1;26,ferrophosphorus,3
+104,ENV,other,5;1;26,crop residues,4
+104,ENV,other,5;1;26,food waste,5
+104,ENV,other,5;1;26,animal waste,6
+104,ENV,other,5;1;26,excreta,7
+104,ENV,other,5;1;26,other human waste,8

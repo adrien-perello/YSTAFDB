@@ -1,0 +1,266 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+13,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+13,PEM,production of engineering materials,1;1,production,1
+13,PEM,production of engineering materials,1;1,engineering materials,2
+13,PEM,production,1;1;1,mining beneficiation,1
+13,PEM,production,1;1;1,smelting and solvent extraction,2
+13,PEM,production,1;1;1,refining,3
+13,PEM,engineering materials,1;1;2,Cu metal and alloys,1
+13,PEM,mining beneficiation,1;1;1;1,mining,1
+13,PEM,mining beneficiation,1;1;1;1,beneficiation,2
+13,PEM,Cu metal and alloys,1;1;2;1,Cu metal,1
+13,PEM,Cu metal and alloys,1;1;2;1,Cu alloy,2
+13,PEM,beneficiation,1;1;1;1;1,concentrate,1
+13,PEM,beneficiation,1;1;1;1;1,waste,2
+13,PEM,production,1;1;1,mining beneficiation,1'
+13,PEM,production,1;1;1,smelting and solvent extraction,2'
+13,PEM,production,1;1;1,refining,3'
+13,PEM,mining beneficiation,1;1;1;1',ore and concentrate,1
+13,PEM,smelting and solvent extraction,1;1;1;2',slag,1
+13,PEM,smelting and solvent extraction,1;1;1;2',blister Cu,2
+13,PEM,refining,1;1;1;3',cathode Cu,1
+13,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+13,F&M,fabrication and manufacturing,2;1,fabrication,1
+13,F&M,fabrication and manufacturing,2;1,manufacturing,2
+13,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1'
+13,F&M,fabrication and manufacturing,2;1',Cu metal products,1
+13,F&M,fabrication and manufacturing,2;1',Cu alloy products,2
+13,F&M,Cu metal components,2;1';1,building wire,1
+13,F&M,Cu metal components,2;1';1,tube,2
+13,F&M,Cu metal components,2;1';1,motor vehicle wire,3
+13,F&M,Cu metal components,2;1';1,magnet wire,4
+13,F&M,Cu metal components,2;1';1,telecommunications wire,5
+13,F&M,Cu metal components,2;1';1,power cable,6
+13,F&M,Cu metal components,2;1';1,sheet strip,7
+13,F&M,Cu metal components,2;1';1,other,8
+13,F&M,Cu alloy components,2;1';2,sheet strip,1
+13,F&M,Cu alloy components,2;1';2,casting alloy,2
+13,F&M,Cu alloy components,2;1';2,rod,3
+13,F&M,Cu alloy components,2;1';2,other alloy,4
+13,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1''
+13,F&M,fabrication and manufacturing,2;1'',semis and finished products,1
+13,F&M,fabrication and manufacturing,2;1'',scrap,2
+13,F&M,semis and finished products,2;1'';1,semis,1
+13,F&M,semis and finished products,2;1'';1,finished products,2
+13,USE,aggregate use,3,use,1
+13,USE,use,3;1,infrastructure,1
+13,USE,use,3;1,building and construction,2
+13,USE,use,3;1,transportation,3
+13,USE,use,3;1,consumer and commercial durables,4
+13,USE,use,3;1,industrial machinery and equipment,5
+13,USE,use,3;1,electrical and electronic products,6
+13,USE,infrastructure,3;1;1,telecommunications,1
+13,USE,infrastructure,3;1;1,electricity generation and distribution,2
+13,USE,infrastructure,3;1;1,water distribution,3
+13,USE,infrastructure,3;1;1,gas distribution,4
+13,USE,building and construction,3;1;2,plumbing,1
+13,USE,building and construction,3;1;2,wiring,2
+13,USE,building and construction,3;1;2,hvac and air conditioning and refrigeration,3
+13,USE,building and construction,3;1;2,other hardware,4
+13,USE,building and construction,3;1;2,elecvators escalators dumbwaiters,5
+13,USE,building and construction,3;1;2,architectural roofing gutters etc,6
+13,USE,building and construction,3;1;2,other built-in appliances,7
+13,USE,building and construction,3;1;2,chromated copper arsenate lumber,8
+13,USE,transportation,3;1;3,auto vehicles,1
+13,USE,transportation,3;1;3,air,2
+13,USE,transportation,3;1;3,marine,3
+13,USE,transportation,3;1;3,rail,4
+13,USE,consumer and commercial durables,3;1;4,consumer durables,1
+13,USE,consumer and commercial durables,3;1;4,commercial durables,2
+13,USE,industrial machinery and equipment,3;1;5,machinery,1
+13,USE,industrial machinery and equipment,3;1;5,forklifts,2
+13,USE,industrial machinery and equipment,3;1;5,elevators,3
+13,USE,industrial machinery and equipment,3;1;5,built-in appliances,4
+13,USE,electrical and electronic products,3;1;6,household,1
+13,USE,electrical and electronic products,3;1;6,commercial,2
+13,USE,telecommunication,3;1;1;1,cable tv coaxial lines,1
+13,USE,telecommunication,3;1;1;1,sbc phone lines,2
+13,USE,electricity generation and distribution,3;1;1;2,electricity transmission and distribution,1
+13,USE,electricity generation and distribution,3;1;1;2,power stations,2
+13,USE,water distribution,3;1;1;3,water mains,1
+13,USE,water distribution,3;1;1;3,service lines,2
+13,USE,water distribution,3;1;1;3,air cocks and blow-offs,3
+13,USE,auto vehicles,3;1;3;1,passenger vehicles,1
+13,USE,auto vehicles,3;1;3;1,motorcycles,2
+13,USE,auto vehicles,3;1;3;1,trucks and buses,3
+13,USE,auto vehicles,3;1;3;1,other vehicles,4
+13,USE,auto vehicles,3;1;3;1,trailers,5
+13,USE,consumer durables,3;1;4;1,white goods,1
+13,USE,consumer durables,3;1;4;1,other,2
+13,USE,commercial durables,3;1;4;2,white goods,1
+13,USE,commercial durables,3;1;4;2,other,2
+13,USE,machinery,3;1;5;1,construction and mining machinery,1
+13,USE,machinery,3;1;5;1,manufacturing machinery,2
+13,USE,machinery,3;1;5;1,farm machinery,3
+13,USE,household,3;1;6;1,electrical,1
+13,USE,household,3;1;6;1,electronic,2
+13,USE,commercial,3;1;6;2,electrical,1
+13,USE,commercial,3;1;6;2,electronic,2
+13,USE,electricity transmission and distribution,3;1;1;2;1,electrical power cable,1
+13,USE,electricity transmission and distribution,3;1;1;2;1,railway overhead contact system wire,2
+13,USE,electricity transmission and distribution,3;1;1;2;1,streetscape electrical wire,3
+13,USE,electricity transmission and distribution,3;1;1;2;1,transformers,4
+13,USE,trucks and buses,3;1;3;1;3,buses,1
+13,USE,trucks and buses,3;1;3;1;3,light trucks,2
+13,USE,trucks and buses,3;1;3;1;3,large and specialty trucks,3
+13,USE,white goods,3;1;4;1;1,refrigerators and freezers,1
+13,USE,white goods,3;1;4;1;1,clothes washing machines,2
+13,USE,white goods,3;1;4;1;1,clothes dryers,3
+13,USE,white goods,3;1;4;1;1,dishwashers,4
+13,USE,white goods,3;1;4;1;1,stove ranges and ovens,5
+13,USE,white goods,3;1;4;1;1,microwave ovens,6
+13,USE,other,3;1;4;1;2,pots and pans,1
+13,USE,other,3;1;4;1;2,brass bullet shells,2
+13,USE,other,3;1;4;1;2,brass musical instruments,3
+13,USE,white goods,3;1;4;2;1,refrigerators and freezers,1
+13,USE,white goods,3;1;4;2;1,dishwashers,2
+13,USE,white goods,3;1;4;2;1,stove ranges and ovens,3
+13,USE,white goods,3;1;4;2;1,clothes washing machines,4
+13,USE,white goods,3;1;4;2;1,clothes dryers,5
+13,USE,white goods,3;1;4;2;1,microwave ovens,6
+13,USE,other,3;1;4;2;2,coinage,1
+13,USE,other,3;1;4;2;2,food,2
+13,USE,other,3;1;4;2;2,chromated copper arsenate lumber,3
+13,USE,construction and mining machinery,3;1;5;1;1,construction machinery,1
+13,USE,construction and mining machinery,3;1;5;1;1,mining machinery,2
+13,USE,electrical,3;1;6;1;1,portable air conditioners,1
+13,USE,electrical,3;1;6;1;1,vacuum cleaners,2
+13,USE,electrical,3;1;6;1;1,hair dryers,3
+13,USE,electrical,3;1;6;1;1,extension cords,4
+13,USE,electrical,3;1;6;1;1,kitchen stationary mixers,5
+13,USE,electrical,3;1;6;1;1,electric blenders,6
+13,USE,electrical,3;1;6;1;1,food processors,7
+13,USE,electrical,3;1;6;1;1,electric lawnmowers,8
+13,USE,electrical,3;1;6;1;1,sewing machines,9
+13,USE,electronic,3;1;6;1;2,computers,1
+13,USE,electronic,3;1;6;1;2,televisions,2
+13,USE,electronic,3;1;6;1;2,telephones,3
+13,USE,electronic,3;1;6;1;2,stereos and radios,4
+13,USE,electrical,3;1;6;2;1,portable air conditioners,1
+13,USE,electrical,3;1;6;2;1,blast chillers,2
+13,USE,electrical,3;1;6;2;1,ice machines,3
+13,USE,electrical,3;1;6;2;1,auto mechanic tools,4
+13,USE,electronic,3;1;6;2;2,computers,1
+13,USE,electronic,3;1;6;2;2,televisions,2
+13,USE,electronic,3;1;6;2;2,telephones,3
+13,USE,electronic,3;1;6;2;2,stereos and radios,4
+13,USE,use,3;1,infrastructure,1'
+13,USE,use,3;1,building and construction,2'
+13,USE,use,3;1,transportation,3'
+13,USE,use,3;1,consumer and commercial durables,4'
+13,USE,use,3;1,industrial machinery and equipment,5'
+13,USE,use,3;1,electrical and electronic products,6'
+13,USE,building and construction,3;1;2',residential,1
+13,USE,building and construction,3;1;2',commercial,2
+13,USE,building and construction,3;1;2',industrial,3
+13,USE,residential,3;1;2';1,wiring,1
+13,USE,residential,3;1;2';1,ethernet cable,2
+13,USE,residential,3;1;2';1,plumbing,3
+13,USE,residential,3;1;2';1,architectural roofing gutters etc,4
+13,USE,residential,3;1;2';1,chromated copper arsenate decks,5
+13,USE,residential,3;1;2';1,other hardware,6
+13,USE,residential,3;1;2';1,other hvac,7
+13,USE,residential,3;1;2';1,garbage disposals,8
+13,USE,residential,3;1;2';1,garage door openers,9
+13,USE,commercial,3;1;2';2,elevators escalators dumbwaiters,1
+13,USE,commercial,3;1;2';2,wiring,2
+13,USE,commercial,3;1;2';2,plumbing,3
+13,USE,commercial,3;1;2';2,other hardware,4
+13,USE,commercial,3;1;2';2,other hvac,5
+13,USE,commercial,3;1;2';2,architectural roofing gutters etc,6
+13,USE,industrial,3;1;2';3,wiring,1
+13,USE,industrial,3;1;2';3,plumbing,2
+13,USE,industrial,3;1;2';3,other hardware,3
+13,USE,industrial,3;1;2';3,other hvac,4
+13,USE,building and construction,3;1;2',residential,1'
+13,USE,building and construction,3;1;2',commercial,2'
+13,USE,building and construction,3;1;2',industrial,3'
+13,USE,residential,3;1;2';1',single family houses,1
+13,USE,residential,3;1;2';1',units in shared living complexes,2
+13,USE,residential,3;1;2';1',other dwellings,3
+13,USE,aggregate use,3,use,1'
+13,USE,use,3;1',non-dissipative,1
+13,USE,use,3;1',dissipative,2
+13,USE,non-dissipative,3;1';1,municipal solid waste and construction demolition waste,1
+13,USE,non-dissipative,3;1';1,end of life vehicles,2
+13,USE,non-dissipative,3;1';1,waste electronic and electrical equipment,3
+13,USE,non-dissipative,3;1';1,industrial and hazardous waste,4
+13,USE,non-dissipative,3;1';1,sewage and sewage sludge,5
+13,USE,municipal solid waste and construction demolition waste,3;1';1;1,municipal solid waste,1
+13,USE,municipal solid waste and construction demolition waste,3;1';1;1,construction and demolition waste,2
+13,USE,end of life vehicles,3;1';1;2,passenger cars,1
+13,USE,end of life vehicles,3;1';1;2,buses and coaches,2
+13,USE,end of life vehicles,3;1';1;2,other vehicles,3
+13,USE,industrial and hazardous waste,3;1';1;5,hazardous waste,1
+13,USE,industrial and hazardous waste,3;1';1;5,industrial waste,2
+13,WMR,aggregate waste management,4,waste management,1
+13,WMR,waste management,4;1,collection and separation,1
+13,WMR,waste management,4;1,incineration,2
+13,WMR,collection,4;1;1,collection,1
+13,WMR,separation treatment,4;1;1,separation,2
+13,WMR,aggregate waste management,4,waste management,1'
+13,WMR,waste management,4;1',recycled,1
+13,WMR,waste management,4;1',not recycled,2
+13,WMR,recycled,4;1';1,old scrap,1
+13,WMR,recycled,4;1';1,new scrap,2
+13,WMR,not recycled,4;1';2,single family houses,1
+13,WMR,not recycled,4;1';2,units in shared living complexes,2
+13,WMR,not recycled,4;1';2,other dwellings,3
+13,WMR,not recycled,4;1';2,commercial,4
+13,WMR,not recycled,4;1';2,industrial,5
+13,WMR,not recycled,4;1';2,power stations,6
+13,WMR,not recycled,4;1';2,telecommunications,7
+13,WMR,not recycled,4;1';2,auto vehicles,8
+13,WMR,not recycled,4;1';2,rail,9
+13,WMR,not recycled,4;1';2,consumer durables,10
+13,WMR,not recycled,4;1';2,commercial durables,11
+13,WMR,not recycled,4;1';2,industrial machinery and equipment,12
+13,WMR,waste management,4;1',recycled,1'
+13,WMR,waste management,4;1',not recycled,2'
+13,WMR,recycled,4;1';1',single family houses,1
+13,WMR,recycled,4;1';1',units in shared living complexes,2
+13,WMR,recycled,4;1';1',other dwellings,3
+13,WMR,recycled,4;1';1',commercial,4
+13,WMR,recycled,4;1';1',industrial,5
+13,WMR,recycled,4;1';1',power stations,6
+13,WMR,recycled,4;1';1',telecommunications,7
+13,WMR,recycled,4;1';1',auto vehicles,8
+13,WMR,recycled,4;1';1',rail,9
+13,WMR,recycled,4;1';1',consumer durables,10
+13,WMR,recycled,4;1';1',commercial durables,11
+13,WMR,recycled,4;1';1',industrial machinery and equipment,12
+13,ENV,aggregate environment,5,environment,1
+13,ENV,environment,5;1,tailings,1
+13,ENV,environment,5;1,slag,2
+13,ENV,environment,5;1,sludge slimes,3
+13,ENV,environment,5;1,leachate,4
+13,ENV,environment,5;1,landfill,5
+13,ENV,environment,5;1,lithosphere economic resources,6
+13,ENV,environment,5;1,ashes particulates,7
+13,ENV,environment,5;1,hazardous waste,8
+13,ENV,environment,5;1,dissipation,9
+13,ENV,environment,5;1,earth orbit,10
+13,ENV,environment,5;1,moon,11
+13,ENV,environment,5;1,atmosphere,12
+13,ENV,environment,5;1,fossil fuel resources,13
+13,ENV,environment,5;1,agricultural biomass,14
+13,ENV,environment,5;1,terrestrial biomass,15
+13,ENV,environment,5;1,soil,16
+13,ENV,environment,5;1,continental regolith,17
+13,ENV,environment,5;1,freshwater,18
+13,ENV,environment,5;1,oceans,19
+13,ENV,environment,5;1,ocean biomass,20
+13,ENV,environment,5;1,mantle,21
+13,ENV,environment,5;1,core,22
+13,ENV,environment,5;1,oceanic regolith,23
+13,ENV,environment,5;1,consolidated crust,24
+13,ENV,environment,5;1,universe non earth planetary bodies,25
+13,ENV,dissipation,5;1;9,landfill,1
+13,ENV,dissipation,5;1;9,water bodies,2
+13,ENV,dissipation,5;1;9,air,3
+13,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+13,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+13,ENV,consolidated crust,5;1;24,upper continental crust,1
+13,ENV,consolidated crust,5;1;24,middle continental crust,2
+13,ENV,consolidated crust,5;1;24,lower continental crust,3
+13,ENV,consolidated crust,5;1;24,oceanic crust,4

@@ -1,0 +1,163 @@
+substance,subsystem acronym,subsystem name,subsystem,process name,process
+33,PEM,aggregate production of engineering materials,1,production of engineering materials,1
+33,PEM,production of engineering materials,1;1,mining and beneficiation,1
+33,PEM,production of engineering materials,1;1,smelting,2
+33,PEM,production of engineering materials,1;1,refining,3
+33,PEM,mining and beneficiation,1;1;1,concentrate,1
+33,PEM,mining and beneficiation,1;1;1,tailings,2
+33,PEM,smelting,1;1;2,Ni matte,1
+33,PEM,smelting,1;1;2,slag,2
+33,PEM,refining,1;1;3,refined Ni,1
+33,PEM,aggregate production of engineering materials,1,production of engineering materials,1'
+33,PEM,production of engineering materials,1;1',ore and concentrate,1
+33,PEM,production of engineering materials,1;1',refined metal,2
+33,F&M,aggregate fabrication and manufacturing,2,fabrication and manufacturing,1
+33,F&M,fabrication and manufacturing,2;1,fabrication,1
+33,F&M,fabrication and manufacturing,2;1,manufacturing,2
+33,F&M,fabrication,2;1;1,product,1
+33,F&M,fabrication,2;1;1,scrap,2
+33,F&M,fabrication,2;1;1,waste,3
+33,F&M,manufacturing,2;1;2,product,1
+33,F&M,manufacturing,2;1;2,scrap,2
+33,F&M,manufacturing,2;1;2,waste,3
+33,F&M,aggregate fabrication manufacturing,2,fabrication and manufacturing,1'
+33,F&M,fabrication and manufacturing,2;1',semis and finished products,1
+33,F&M,fabrication and manufacturing,2;1',scrap,2
+33,F&M,fabrication and manufacturing,2;1',waste,3
+33,F&M,semis and finished products,2;1';1,semis,1
+33,F&M,semis and finished products,2;1';1,finished products,2
+33,USE,aggregate use,3,use,1
+33,USE,use,3;1,buildings and infrastructure,1
+33,USE,use,3;1,transportation,2
+33,USE,use,3;1,industrial machinery,3
+33,USE,use,3;1,household appliances and electronics,4
+33,USE,use,3;1,metal goods and other,5
+33,USE,buildings and infrastructure,3;1;1,bank vaults,1
+33,USE,buildings and infrastructure,3;1;1,elevators,2
+33,USE,buildings and infrastructure,3;1;1,escalators,3
+33,USE,buildings and infrastructure,3;1;1,kitchen sinks,4
+33,USE,buildings and infrastructure,3;1;1,chimney liners,5
+33,USE,buildings and infrastructure,3;1;1,smokestacks,6
+33,USE,buildings and infrastructure,3;1;1,telecommunications support,7
+33,USE,transportation,3;1;2,auto,1
+33,USE,transportation,3;1;2,air,2
+33,USE,transportation,3;1;2,marine,3
+33,USE,transportation,3;1;2,rail,4
+33,USE,industrial machinery,3;1;3,industrial and construction machinery,1
+33,USE,industrial machinery,3;1;3,manufacturing machinery,2
+33,USE,industrial machinery,3;1;3,farm machinery,3
+33,USE,industrial machinery,3;1;3,farming tools,4
+33,USE,industrial machinery,3;1;3,mechanics tools,5
+33,USE,household appliances and electronics,3;1;4,white goods,1
+33,USE,household appliances and electronics,3;1;4,electrical and electronic,2
+33,USE,household appliances and electronics,3;1;4,specialized commercial equipment,3
+33,USE,household appliances and electronics,3;1;4,restaurant industry,4
+33,USE,metal goods and other,3;1;5,domestic equipment,1
+33,USE,metal goods and other,3;1;5,commercial equipment,2
+33,USE,metal goods and other,3;1;5,restaurant industry,3
+33,USE,metal goods and other,3;1;5,fasteners,4
+33,USE,metal goods and other,3;1;5,jewelery,5
+33,USE,metal goods and other,3;1;5,coins,6
+33,USE,metal goods and other,3;1;5,hospital equipment,7
+33,USE,kitchen sinks,3;1;1;4,residential,1
+33,USE,kitchen sinks,3;1;1;4,commercial,2
+33,USE,kitchen sinks,3;1;1;4,restaurant industry,3
+33,USE,auto,3;1;2;1,resident,1
+33,USE,auto,3;1;2;1,non-resident,2
+33,USE,air,3;1;2;2,resident,1
+33,USE,air,3;1;2;2,non-resident,2
+33,USE,marine,3;1;2;3,resident,1
+33,USE,marine,3;1;2;3,non-resident,2
+33,USE,rail,3;1;2;4,resident,1
+33,USE,rail,3;1;2;4,non-resident,2
+33,USE,white goods,3;1;4;1,refrigerators and freezers,1
+33,USE,white goods,3;1;4;1,washing machines,2
+33,USE,white goods,3;1;4;1,clothes dryers,3
+33,USE,white goods,3;1;4;1,dishwashers,4
+33,USE,white goods,3;1;4;1,stoves and domestric cooking,5
+33,USE,white goods,3;1;4;1,microwave ovens,6
+33,USE,electrical and electronic,3;1;4;2,computers,1
+33,USE,electrical and electronic,3;1;4;2,televisions,2
+33,USE,electrical and electronic,3;1;4;2,telephones,3
+33,USE,electrical and electronic,3;1;4;2,stereos and radios,4
+33,USE,electrical and electronic,3;1;4;2,garbage disposers,5
+33,USE,electrical and electronic,3;1;4;2,other household appliances,6
+33,USE,specialized commercial equipment,3;1;4;3,rotary rack ovens,1
+33,USE,specialized commercial equipment,3;1;4;3,fryers,2
+33,USE,specialized commercial equipment,3;1;4;3,blast chillers,3
+33,USE,specialized commercial equipment,3;1;4;3,ice machines,4
+33,USE,specialized commercial equipment,3;1;4;3,soft serve yogurt machines,5
+33,USE,specialized commercial equipment,3;1;4;3,other commercial appliances,6
+33,USE,domestic equipment,3;1;5;1,tableware,1
+33,USE,domestic equipment,3;1;5;1,cookware,2
+33,USE,domestic equipment,3;1;5;1,tools,3
+33,USE,domestic equipment,3;1;5;1,household batteries,4
+33,USE,domestic equipment,3;1;5;1,disposable razors,5
+33,USE,domestic equipment,3;1;5;1,gardening tools,6
+33,USE,commercial equipment,3;1;5;2,kegs,1
+33,USE,commercial equipment,3;1;5;2,kettles,2
+33,USE,commercial equipment,3;1;5;2,air curtain cookers,3
+33,USE,commercial equipment,3;1;5;2,tables and stations and bars and counters,4
+33,USE,commercial equipment,3;1;5;2,tableware,5
+33,USE,commercial equipment,3;1;5;2,cash register drawers,6
+33,USE,resident,3;1;2;1;1,passenger vehicles,1
+33,USE,resident,3;1;2;1;1,large and specialty trucks,2
+33,USE,resident,3;1;2;1;1,buses,3
+33,USE,resident,3;1;2;1;1,cycles,4
+33,USE,resident,3;1;2;1;1,other,5
+33,USE,resident,3;1;2;1;1,scrap yard vehicles,6
+33,USE,aggregate use,3,use,1'
+33,USE,use,3;1',non-dissipative,1
+33,USE,use,3;1',dissipative,2
+33,USE,aggregate use,3,use,1''
+33,USE,use,3;1'',stainless steels,1
+33,USE,use,3;1'',superalloys,2
+33,USE,use,3;1'',platings,3
+33,WMR,aggregate waste management,4,waste management,1
+33,WMR,waste management,4;1,recycled,1
+33,WMR,waste management,4;1,not recycled,2
+33,WMR,recycled,4;1;1,scrap,1
+33,WMR,not recycled,4;1;2,waste,1
+33,WMR,not recycled,4;1;2,downcycled other scrap markets,2
+33,WMR,scrap,4;1;1;1,recycled old scrap,1
+33,WMR,scrap,4;1;1;1,recycled new scrap,2
+33,WMR,aggregate waste management,4,waste management,1'
+33,WMR,waste management,4;1',scrap,1
+33,WMR,waste management,4;1',waste,2
+33,WMR,scrap,4;1';1,old scrap,1
+33,WMR,scrap,4;1';1,new scrap,2
+33,ENV,aggregate environment,5,environment,1
+33,ENV,environment,5;1,tailings,1
+33,ENV,environment,5;1,slag,2
+33,ENV,environment,5;1,sludge slimes,3
+33,ENV,environment,5;1,leachate,4
+33,ENV,environment,5;1,landfill,5
+33,ENV,environment,5;1,lithosphere economic resources,6
+33,ENV,environment,5;1,ashes particulates,7
+33,ENV,environment,5;1,hazardous waste,8
+33,ENV,environment,5;1,dissipation,9
+33,ENV,environment,5;1,earth orbit,10
+33,ENV,environment,5;1,moon,11
+33,ENV,environment,5;1,atmosphere,12
+33,ENV,environment,5;1,fossil fuel resources,13
+33,ENV,environment,5;1,agricultural biomass,14
+33,ENV,environment,5;1,terrestrial biomass,15
+33,ENV,environment,5;1,soil,16
+33,ENV,environment,5;1,continental regolith,17
+33,ENV,environment,5;1,freshwater,18
+33,ENV,environment,5;1,oceans,19
+33,ENV,environment,5;1,ocean biomass,20
+33,ENV,environment,5;1,mantle,21
+33,ENV,environment,5;1,core,22
+33,ENV,environment,5;1,oceanic regolith,23
+33,ENV,environment,5;1,consolidated crust,24
+33,ENV,environment,5;1,universe non earth planetary bodies,25
+33,ENV,dissipation,5;1;9,land,1
+33,ENV,dissipation,5;1;9,water bodies,2
+33,ENV,dissipation,5;1;9,air,3
+33,ENV,oceanic regolith,5;1;23,continental margin regolith,1
+33,ENV,oceanic regolith,5;1;23,seafloor regolith,2
+33,ENV,consolidated crust,5;1;24,upper continental crust,1
+33,ENV,consolidated crust,5;1;24,middle continental crust,2
+33,ENV,consolidated crust,5;1;24,lower continental crust,3
+33,ENV,consolidated crust,5;1;24,oceanic crust,4
